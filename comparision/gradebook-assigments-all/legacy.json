@@ -1,0 +1,588 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "BUS435": {
+      "sectionCount": 2,
+      "assignments": [
+        {
+          "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMjEgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 11 Discussion",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAxMCBBc3NpZ25tZW50IC0gTGVhZGVyc2hpcCBhbmQgTGVhZGVyc2hpcCBEZXZlbG9wbWVudHtzcGxpdH0yMDIxLTA2LTE0IDA5OjAwOjAwe3NwbGl0fUJVUzQzNQ==",
+          "assignmentTitle": "Week 10 Assignment - Leadership and Leadership Development",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 185,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 10 Discussion",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA5IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNi0wNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 9 Discussion",
+          "dueDate": "2021-06-07T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA4IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 8 Discussion",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA4IEFzc2lnbm1lbnQgLSBUaGUgUGVyZmVjdCBNYW5hZ2Vye3NwbGl0fTIwMjEtMDUtMzEgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 8 Assignment - The Perfect Manager",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA3IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 7 Discussion",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA2IEFzc2lnbm1lbnQgLSBQbGFubmluZyBmb3IgTG9uZy1UZXJtIFN1Y2Nlc3N7c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 6 Assignment - Planning for Long-Term Success",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 185,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA2IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 6 Discussion",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA1IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xMCAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 5 Discussion",
+          "dueDate": "2021-05-10T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA0IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0wMyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 4 Discussion",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayA0IEFzc2lnbm1lbnQgLSBBIE5ldyBCZXN0IFByYWN0aWNle3NwbGl0fTIwMjEtMDUtMDMgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 4 Assignment - A New Best Practice",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAzIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0yNiAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 3 Discussion",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAzIEFzc2lnbm1lbnQgLSBDaGFsbGVuZ2VzIHRvIEdyb3d0aHtzcGxpdH0yMDIxLTA0LTI2IDA5OjAwOjAwe3NwbGl0fUJVUzQzNQ==",
+          "assignmentTitle": "Week 3 Assignment - Challenges to Growth",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAyIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xOSAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 2 Discussion",
+          "dueDate": "2021-04-19T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAxIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xMiAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 1 Discussion",
+          "dueDate": "2021-04-12T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 38
+        },
+        {
+          "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMjEgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 11 Discussion",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAxMCBBc3NpZ25tZW50IC0gTGVhZGVyc2hpcCBhbmQgTGVhZGVyc2hpcCBEZXZlbG9wbWVudHtzcGxpdH0yMDIxLTA2LTE0IDA5OjAwOjAwe3NwbGl0fUJVUzQzNQ==",
+          "assignmentTitle": "Week 10 Assignment - Leadership and Leadership Development",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 185,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 10 Discussion",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA5IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNi0wNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 9 Discussion",
+          "dueDate": "2021-06-07T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA4IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 8 Discussion",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA4IEFzc2lnbm1lbnQgLSBUaGUgUGVyZmVjdCBNYW5hZ2Vye3NwbGl0fTIwMjEtMDUtMzEgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 8 Assignment - The Perfect Manager",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA3IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 7 Discussion",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA2IEFzc2lnbm1lbnQgLSBQbGFubmluZyBmb3IgTG9uZy1UZXJtIFN1Y2Nlc3N7c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 6 Assignment - Planning for Long-Term Success",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 185,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA2IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 6 Discussion",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA1IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xMCAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 5 Discussion",
+          "dueDate": "2021-05-10T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA0IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0wMyAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 4 Discussion",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayA0IEFzc2lnbm1lbnQgLSBBIE5ldyBCZXN0IFByYWN0aWNle3NwbGl0fTIwMjEtMDUtMDMgMDk6MDA6MDB7c3BsaXR9QlVTNDM1",
+          "assignmentTitle": "Week 4 Assignment - A New Best Practice",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAzIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0yNiAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 3 Discussion",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAzIEFzc2lnbm1lbnQgLSBDaGFsbGVuZ2VzIHRvIEdyb3d0aHtzcGxpdH0yMDIxLTA0LTI2IDA5OjAwOjAwe3NwbGl0fUJVUzQzNQ==",
+          "assignmentTitle": "Week 3 Assignment - Challenges to Growth",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 100,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAyIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xOSAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 2 Discussion",
+          "dueDate": "2021-04-19T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        },
+        {
+          "assignmentId": "V2VlayAxIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xMiAwOTowMDowMHtzcGxpdH1CVVM0MzU=",
+          "assignmentTitle": "Week 1 Discussion",
+          "dueDate": "2021-04-12T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 36
+        }
+      ]
+    },
+    "BUS437": {
+      "sectionCount": 1,
+      "assignments": [
+        {
+          "assignmentId": "Q2hhcHRlcnMgMTMtMTU7IDE3OyBhbmQgMTktMjAgUXVpentzcGxpdH0yMDIxLTA2LTIxIDA5OjAwOjAwe3NwbGl0fUJVUzQzNw==",
+          "assignmentTitle": "Chapters 13-15; 17; and 19-20 Quiz",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 75,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMjEgMDk6MDA6MDB7c3BsaXR9QlVTNDM3",
+          "assignmentTitle": "Week 11 Discussion",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "TWFuYWdpbmcgdGhlIENvbnRyYWN0b3ItQ3VzdG9tZXIgUmVsYXRpb25zaGlwe3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTNDM3",
+          "assignmentTitle": "Managing the Contractor-Customer Relationship",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 185,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTNDM3",
+          "assignmentTitle": "Week 10 Discussion",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA5IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNi0wNyAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 9 Discussion",
+          "dueDate": "2021-06-07T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "QmVzdCBQcmFjdGljZXN7c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Best Practices",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 130,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA4IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 8 Discussion",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "Q2hhcHRlciA3LTExIFF1aXp7c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Chapter 7-11 Quiz",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 75,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA3IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 7 Discussion",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "RXZhbHVhdGluZyBhbmQgQWNxdWlyaW5nIFRlY2hub2xvZ3l7c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Evaluating and Acquiring Technology",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 130,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA2IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 6 Discussion",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA1IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xMCAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 5 Discussion",
+          "dueDate": "2021-05-10T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "Q2hhcHRlciAxLTUgUXVpentzcGxpdH0yMDIxLTA1LTAzIDA5OjAwOjAwe3NwbGl0fUJVUzQzNw==",
+          "assignmentTitle": "Chapter 1-5 Quiz",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 75,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayA0IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0wMyAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 4 Discussion",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayAzIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0yNiAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 3 Discussion",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayAyIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xOSAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 2 Discussion",
+          "dueDate": "2021-04-19T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        },
+        {
+          "assignmentId": "V2VlayAxIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xMiAwOTowMDowMHtzcGxpdH1CVVM0Mzc=",
+          "assignmentTitle": "Week 1 Discussion",
+          "dueDate": "2021-04-12T09:00:00+00:00",
+          "points": 30,
+          "overdueCount": 26
+        }
+      ]
+    },
+    "BUS380": {
+      "sectionCount": 2,
+      "assignments": [
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyA44oCTMTN7c3BsaXR9MjAyMS0wNi0yMSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Quiz Chapters 8\u201313",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMjEgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Week 11 Discussion",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Week 10 Discussion",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V29vZGVuIG9uIExlYWRlcnNoaXB7c3BsaXR9MjAyMS0wNi0xNCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Wooden on Leadership",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 225,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA5IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNi0wNyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 9 Discussion",
+          "dueDate": "2021-06-07T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA4IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 8 Discussion",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA3IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 7 Discussion",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyA14oCTN3tzcGxpdH0yMDIxLTA1LTI0IDA5OjAwOjAwe3NwbGl0fUJVUzM4MA==",
+          "assignmentTitle": "Quiz Chapters 5\u20137",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA2IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 6 Discussion",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "Q29tcGV0ZW5jaWVzIGZvciBQcm9qZWN0IE1hbmFnZXJze3NwbGl0fTIwMjEtMDUtMTcgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Competencies for Project Managers",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 180,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA1IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xMCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 5 Discussion",
+          "dueDate": "2021-05-10T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayA0IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0wMyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 4 Discussion",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyAx4oCTNHtzcGxpdH0yMDIxLTA1LTAzIDA5OjAwOjAwe3NwbGl0fUJVUzM4MA==",
+          "assignmentTitle": "Quiz Chapters 1\u20134",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayAzIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0yNiAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 3 Discussion",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayAyIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xOSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 2 Discussion",
+          "dueDate": "2021-04-19T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "V2VlayAxIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xMiAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 1 Discussion",
+          "dueDate": "2021-04-12T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 19
+        },
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyA44oCTMTN7c3BsaXR9MjAyMS0wNi0yMSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Quiz Chapters 8\u201313",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMjEgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Week 11 Discussion",
+          "dueDate": "2021-06-21T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9ue3NwbGl0fTIwMjEtMDYtMTQgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Week 10 Discussion",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V29vZGVuIG9uIExlYWRlcnNoaXB7c3BsaXR9MjAyMS0wNi0xNCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Wooden on Leadership",
+          "dueDate": "2021-06-14T09:00:00+00:00",
+          "points": 225,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA5IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNi0wNyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 9 Discussion",
+          "dueDate": "2021-06-07T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA4IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0zMSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 8 Discussion",
+          "dueDate": "2021-05-31T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA3IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0yNCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 7 Discussion",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyA14oCTN3tzcGxpdH0yMDIxLTA1LTI0IDA5OjAwOjAwe3NwbGl0fUJVUzM4MA==",
+          "assignmentTitle": "Quiz Chapters 5\u20137",
+          "dueDate": "2021-05-24T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA2IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xNyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 6 Discussion",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "Q29tcGV0ZW5jaWVzIGZvciBQcm9qZWN0IE1hbmFnZXJze3NwbGl0fTIwMjEtMDUtMTcgMDk6MDA6MDB7c3BsaXR9QlVTMzgw",
+          "assignmentTitle": "Competencies for Project Managers",
+          "dueDate": "2021-05-17T09:00:00+00:00",
+          "points": 180,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA1IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0xMCAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 5 Discussion",
+          "dueDate": "2021-05-10T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayA0IERpc2N1c3Npb257c3BsaXR9MjAyMS0wNS0wMyAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 4 Discussion",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "UXVpeiBDaGFwdGVycyAx4oCTNHtzcGxpdH0yMDIxLTA1LTAzIDA5OjAwOjAwe3NwbGl0fUJVUzM4MA==",
+          "assignmentTitle": "Quiz Chapters 1\u20134",
+          "dueDate": "2021-05-03T09:00:00+00:00",
+          "points": 125,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayAzIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0yNiAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 3 Discussion",
+          "dueDate": "2021-04-26T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayAyIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xOSAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 2 Discussion",
+          "dueDate": "2021-04-19T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        },
+        {
+          "assignmentId": "V2VlayAxIERpc2N1c3Npb257c3BsaXR9MjAyMS0wNC0xMiAwOTowMDowMHtzcGxpdH1CVVMzODA=",
+          "assignmentTitle": "Week 1 Discussion",
+          "dueDate": "2021-04-12T09:00:00+00:00",
+          "points": 20,
+          "overdueCount": 29
+        }
+      ]
+    }
+  }
+}

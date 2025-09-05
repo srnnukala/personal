@@ -1,0 +1,162 @@
+[
+  {
+    "studentHash": "Pd1q+DdIAG00qWRoBSeXVijuFcdJ5F/alwAMxXXm3dO/qrhrDVgEGNLgHqrAKRZez22scUsqpVTqo9d9h2D+Zg==::nVtx8WMBk3hTo+TaAJSGVA==",
+    "assignmentPk": 1198108,
+    "is10x": false,
+    "gradeGroup": "B",
+    "previousGrade": null,
+    "attempts": [
+      {
+        "attemptPk": 42245653,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 6 Discussion - Using Financial Statements for Your Life",
+        "submittedDate": "2025-08-15T03:55:23Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198108&student_id=12813&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "obul297jmR2eQTucz8M8/RPiXAeeUw4M2vhKBWp2C6TZN3EiLWpmTaLhzDLGkw1hD7DJQjLARwiBrQuNEAK/kQ==::QskExaXBjeGGER4vJ1SfGQ==",
+    "assignmentPk": 1218474,
+    "is10x": false,
+    "gradeGroup": "B",
+    "previousGrade": null,
+    "attempts": [
+      {
+        "attemptPk": 42308804,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 6 Discussion - Budgeting",
+        "submittedDate": "2025-08-15T15:11:02Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/22179/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/22179/gradebook/speed_grader?assignment_id=1218474&student_id=103999&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "obul297jmR2eQTucz8M8/RPiXAeeUw4M2vhKBWp2C6TZN3EiLWpmTaLhzDLGkw1hD7DJQjLARwiBrQuNEAK/kQ==::QskExaXBjeGGER4vJ1SfGQ==",
+    "assignmentPk": 1218640,
+    "is10x": false,
+    "gradeGroup": "A",
+    "previousGrade": 147.29,
+    "attempts": [
+      {
+        "attemptPk": 42308894,
+        "attemptOrder": 2,
+        "assignmentTitle": "Week 5 Assignment - Evaluate the Capital Investment",
+        "submittedDate": "2025-08-12T01:44:26Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/22179/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/22179/gradebook/speed_grader?assignment_id=1218640&student_id=103999&facAttempt=2",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "PGNYiuWyKBiaQb8ct3OxVflnhadbNj989lOn/MOtUwhBYz9AE4V04az3SnwZNtw4k9nYIHnat5twpxBxEHetoQ==::oqEGBpSLss9M95Oy5Gxm3g==",
+    "assignmentPk": 1198121,
+    "is10x": false,
+    "gradeGroup": "A",
+    "previousGrade": 0,
+    "attempts": [
+      {
+        "attemptPk": 48103372,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 2 Discussion - Strategies for Success",
+        "submittedDate": "2025-08-11T12:30:16Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198121&student_id=8827&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "D+xI0z6U/eakDMp5TwyiXiWpmwjuz+SkbTdm3HM71BaRGwAKcw/Kx/lb4NXciOZiW2AWZEi7PbfyIUzxpr872g==::tdiRDMkACCbWGfBNx+DaSg==",
+    "assignmentPk": 1198108,
+    "is10x": false,
+    "gradeGroup": "D",
+    "previousGrade": null,
+    "attempts": [
+      {
+        "attemptPk": 42245659,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 6 Discussion - Using Financial Statements for Your Life",
+        "submittedDate": "2025-08-13T22:10:05Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198108&student_id=92358&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "A4DPe4KHFyXfAqRfOvkW/6n/uyCQ20ZPhzwQ55wcOYPOUiDPdYf0n8zuDThUwjWFO4CiCy01YmOuTAgkoWDJtw==::BWEYzoi8d9HC5vrNxhxMoA==",
+    "assignmentPk": 1198108,
+    "is10x": false,
+    "gradeGroup": "A",
+    "previousGrade": null,
+    "attempts": [
+      {
+        "attemptPk": 42245654,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 6 Discussion - Using Financial Statements for Your Life",
+        "submittedDate": "2025-08-14T15:54:00Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198108&student_id=68582&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "2AHrk42nepK1yIY4mby1U3wg4S/zCzpsDdNtFtHqbqw/kbe5NO1uWnjkBpwITIso8BoUGin+Q6RQJIL+NMW/eQ==::3bu2lEwGx0QpTLwW5UzwKQ==",
+    "assignmentPk": 1198102,
+    "is10x": false,
+    "gradeGroup": "C",
+    "previousGrade": 0,
+    "attempts": [
+      {
+        "attemptPk": 48041399,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 4 Discussion - Impact of the Accounting Cycle on Business Planning",
+        "submittedDate": "2025-08-13T01:23:24Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198102&student_id=77239&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  },
+  {
+    "studentHash": "r5PBvC642C5Xj9iMQS8NO8+oTqmqUBMIwIPZqxMEQJmPhCgMVu3Q7ZR2DaQwlhCfWL3yJSsIjEfSmsKU4px8Lg==::KaiEL8/wdS5ATWZMt4CXvw==",
+    "assignmentPk": 1198108,
+    "is10x": false,
+    "gradeGroup": "B",
+    "previousGrade": null,
+    "attempts": [
+      {
+        "attemptPk": 42245657,
+        "attemptOrder": 1,
+        "assignmentTitle": "Week 6 Discussion - Using Financial Statements for Your Life",
+        "submittedDate": "2025-08-11T21:09:23Z",
+        "gradeDetailsUrl": "https://devcanvas.strayer.edu/courses/21944/gradebook",
+        "assignmentLink": "https://devcanvas.strayer.edu/courses/21944/gradebook/speed_grader?assignment_id=1198108&student_id=91270&facAttempt=1",
+        "escalationReason": null,
+        "escalated": null,
+        "status": "SUBMITTED"
+      }
+    ]
+  }
+]

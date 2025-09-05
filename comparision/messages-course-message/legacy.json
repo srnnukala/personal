@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "totalUnreadMessages": 3,
+    "messageSummary": [
+      {
+        "unreadMessages": 1,
+        "courseId": "TEST-FP6003_007576_1_1187_OEE_01",
+        "coursePk": "_149936_1",
+        "link": "https:\/\/dvsc.capella.edu\/webapps\/BBC-000-DeepLinks-BBLEARN\/deeplink?landingpage=coursemessage&course_id=_149936_1",
+        "courseName": "TEST-FP6003 - Fall 2018 - Section 01"
+      },
+      {
+        "unreadMessages": 1,
+        "courseId": "TEST-FP6003_007576_1_1191_OEE_01",
+        "coursePk": "_169985_1",
+        "link": "https:\/\/dvsc.capella.edu\/webapps\/BBC-000-DeepLinks-BBLEARN\/deeplink?landingpage=coursemessage&course_id=_169985_1",
+        "courseName": "TEST-FP6003 - Winter 2019 - Section 01"
+      },
+      {
+        "unreadMessages": 1,
+        "courseId": "TESTSUB1333_006294_1_1191_1_01",
+        "coursePk": "_168536_1",
+        "link": "https:\/\/dvsc.capella.edu\/webapps\/BBC-000-DeepLinks-BBLEARN\/deeplink?landingpage=coursemessage&course_id=_168536_1",
+        "courseName": "TESTSUB1333 - Jan 07 2019 to Apr 07 2019 - Section 01"
+      }
+    ]
+  }
+}

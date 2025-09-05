@@ -1,0 +1,71 @@
+{
+  "status": "NOT_SUBMITTED",
+  "submittedDt": null,
+  "submittedBy": null,
+  "learnerGrades": [
+    {
+      "studentHash": "obul297jmR2eQTucz8M8/RPiXAeeUw4M2vhKBWp2C6TZN3EiLWpmTaLhzDLGkw1hD7DJQjLARwiBrQuNEAK/kQ==::QskExaXBjeGGER4vJ1SfGQ==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 397.29,
+      "submitted": 13,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "IvrJsMi++WETPs+DmPWbZAVgONdlrfXN9fLRExmcuhh+Cbg8FH94fnuccE3PROaxUl1Z+cUHgwwvVXJmRZjEjg==::psMwHBLhV+WXthahST23zg==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 394.01,
+      "submitted": 12,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "6CErWjU9T6a6ihTMaMVI5NuNXJbQAj/uImNx0XyxEoyVf0yz7hROwLiKBaN4aZABJm0MMoRO4rkuPXKGXrBTxQ==::bWOvgCUIUI6rUdoMuJnJjg==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 393.62,
+      "submitted": 12,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "EUsXZHIQC25MtaS0KKIbC+xqSipdXdQzmQG3ZYWRXLLvabdOJ86NPqBQ2xUts/2zJ7Itp3ekRFbtPd677X/nVw==::k6VHOvB/qKUybS/a2ymemQ==",
+      "gradeLetter": "F",
+      "needsGrading": true,
+      "totalPoints": 158.12,
+      "submitted": 8,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "AjHCAM9XRpJUqqWOEELwnudDjBp+ifPq8UIp3VBNYlA+4eTve9WLRu2s1fB8JGpA78gGQ37OF46Tfkj1E/DGzA==::n2DKyQZSP4ZhtwHz9p5MVw==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 370.85,
+      "submitted": 11,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "y/mEJPT6M/9se96CPnYnZQePa4reXxwJQraVjWW8jlap81e+CS4/ezttfROWMjmih0//1pHXNExeh5v9CqAEnA==::bTXrCyEPXclkWUANYVlniA==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 369.29,
+      "submitted": 11,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "ZE+Mn5ujDQ1UpzdDBI8VQGEBfv0/z0AFf9mTsXXgKV3SIzsTBR4pknkqZCLARpe+3W+8u5tiScBMbO0uoSkuJg==::eg5xZCY95kqR9vkOG/UtEg==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 385.05,
+      "submitted": 12,
+      "totalSubmissions": 24
+    },
+    {
+      "studentHash": "mIZ/ekt+Ha3SlSYEFfpTNHEEYzBLJdjM1Xvl3n0SHky27upVvWeL20nLDTF4ckK/tACNpDlCEnxZHFVcA+OIGw==::7LXhFBeG8f708D7i6x7xvQ==",
+      "gradeLetter": "A",
+      "needsGrading": true,
+      "totalPoints": 371.6,
+      "submitted": 11,
+      "totalSubmissions": 24
+    }
+  ]
+}

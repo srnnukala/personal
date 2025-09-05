@@ -1,0 +1,40 @@
+{
+  "loginId": "MAHMOUD.ELHARAZI",
+  "firstName": "Mahmoud",
+  "lastName": "Elharazi",
+  "email": "mahmoud.elharazi@nonprod.strategiced.com",
+  "courseActivity": true,
+  "globalInbox": [],
+  "courses": [
+    {
+      "courseId": "ACC100486VA001-1256-001",
+      "role": "PI"
+    },
+    {
+      "courseId": "ACC556105VA001-1256-001",
+      "role": "PI"
+    }
+  ],
+  "allCourses": [
+    {
+      "courses": "COURSE_1256_S08",
+      "strm": "1256",
+      "sessionCode": "S08"
+    },
+    {
+      "courses": "COURSE_1256_S07",
+      "strm": "1256",
+      "sessionCode": "S07"
+    },
+    {
+      "courses": "COURSE_1256_001",
+      "strm": "1256",
+      "sessionCode": "001"
+    },
+    {
+      "courses": "COURSE_1256_MN2",
+      "strm": "1256",
+      "sessionCode": "MN2"
+    }
+  ]
+}

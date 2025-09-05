@@ -1,0 +1,916 @@
+{
+  "loginId": "Nayeli.GOODWIN",
+  "firstName": "Nayeli",
+  "lastName": "Goodwin",
+  "email": "Micheal_Ferry@yahoo.com",
+  "globalInbox": [
+    "Earlene.Buckridge37@hotmail.com",
+    "Walton_Walter94@yahoo.com"
+  ],
+  "courses": [
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN960_343418_03",
+      "role": "TA"
+    },
+    {
+      "courseId": "STA280_404578_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_406732_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_534904_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_406732_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_406732_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "LIT810_886561_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_337655_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_343418_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_534201_01",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN960_924614_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_404578_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_335471_08",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_929248_07",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_635458_05",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN960_140824_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_140824_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_534201_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_911764_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_460186_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_534904_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN410_635458_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "LIT810_886561_01",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN960_924614_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_335471_08",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_534904_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_337655_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_845871_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_897984_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_897984_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_152339_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_152339_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_929248_07",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_406732_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_335471_08",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_406732_03",
+      "role": "TA"
+    },
+    {
+      "courseId": "POL430_534201_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_897984_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_140824_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_344403_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_635458_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_929248_07",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_924614_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_343418_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_344403_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_929248_07",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_534201_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_924614_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_335471_08",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_865507_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_460186_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_140824_01",
+      "role": "TA"
+    },
+    {
+      "courseId": "DAN410_460186_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_924614_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_460186_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_404578_04",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_335471_08",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_534201_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_845871_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "LIT810_886561_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_865507_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "TA"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "TA"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "LIT810_886561_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_139796_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN410_635458_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_753182_02",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_140824_01",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_123553_09",
+      "role": "PI"
+    },
+    {
+      "courseId": "DAN960_343418_03",
+      "role": "PI"
+    },
+    {
+      "courseId": "STA280_593721_06",
+      "role": "TA"
+    },
+    {
+      "courseId": "STA280_845871_05",
+      "role": "PI"
+    },
+    {
+      "courseId": "POL430_972897_02",
+      "role": "PI"
+    }
+  ],
+  "allCourses": [
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN960_343418_03",
+      "strm": "343418",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_404578_04",
+      "strm": "404578",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "POL430_406732_03",
+      "strm": "406732",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN410_534904_04",
+      "strm": "534904",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "POL430_406732_03",
+      "strm": "406732",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_406732_03",
+      "strm": "406732",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "LIT810_886561_01",
+      "strm": "886561",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN410_337655_03",
+      "strm": "337655",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "DAN960_343418_03",
+      "strm": "343418",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_534201_01",
+      "strm": "534201",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_924614_02",
+      "strm": "924614",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_404578_04",
+      "strm": "404578",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "STA280_335471_08",
+      "strm": "335471",
+      "sessionCode": "08"
+    },
+    {
+      "courses": "STA280_929248_07",
+      "strm": "929248",
+      "sessionCode": "07"
+    },
+    {
+      "courses": "DAN410_635458_05",
+      "strm": "635458",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "DAN960_140824_01",
+      "strm": "140824",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_140824_01",
+      "strm": "140824",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "POL430_534201_01",
+      "strm": "534201",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_911764_01",
+      "strm": "911764",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN410_460186_01",
+      "strm": "460186",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN410_534904_04",
+      "strm": "534904",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN410_635458_05",
+      "strm": "635458",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "LIT810_886561_01",
+      "strm": "886561",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_924614_02",
+      "strm": "924614",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "STA280_335471_08",
+      "strm": "335471",
+      "sessionCode": "08"
+    },
+    {
+      "courses": "DAN410_534904_04",
+      "strm": "534904",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "DAN410_337655_03",
+      "strm": "337655",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "STA280_845871_05",
+      "strm": "845871",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "DAN410_897984_02",
+      "strm": "897984",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN410_897984_02",
+      "strm": "897984",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN960_152339_04",
+      "strm": "152339",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "DAN960_152339_04",
+      "strm": "152339",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "STA280_929248_07",
+      "strm": "929248",
+      "sessionCode": "07"
+    },
+    {
+      "courses": "POL430_406732_03",
+      "strm": "406732",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_335471_08",
+      "strm": "335471",
+      "sessionCode": "08"
+    },
+    {
+      "courses": "POL430_406732_03",
+      "strm": "406732",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_534201_01",
+      "strm": "534201",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN410_897984_02",
+      "strm": "897984",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN960_140824_01",
+      "strm": "140824",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_344403_04",
+      "strm": "344403",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "DAN410_635458_05",
+      "strm": "635458",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_929248_07",
+      "strm": "929248",
+      "sessionCode": "07"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "DAN960_924614_02",
+      "strm": "924614",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN960_343418_03",
+      "strm": "343418",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "POL430_344403_04",
+      "strm": "344403",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_929248_07",
+      "strm": "929248",
+      "sessionCode": "07"
+    },
+    {
+      "courses": "POL430_534201_01",
+      "strm": "534201",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_924614_02",
+      "strm": "924614",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_335471_08",
+      "strm": "335471",
+      "sessionCode": "08"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "DAN960_865507_05",
+      "strm": "865507",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "DAN410_460186_01",
+      "strm": "460186",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_140824_01",
+      "strm": "140824",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN410_460186_01",
+      "strm": "460186",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "DAN960_924614_02",
+      "strm": "924614",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN410_460186_01",
+      "strm": "460186",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_404578_04",
+      "strm": "404578",
+      "sessionCode": "04"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_335471_08",
+      "strm": "335471",
+      "sessionCode": "08"
+    },
+    {
+      "courses": "POL430_534201_01",
+      "strm": "534201",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_845871_05",
+      "strm": "845871",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "LIT810_886561_01",
+      "strm": "886561",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "DAN960_865507_05",
+      "strm": "865507",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "LIT810_886561_01",
+      "strm": "886561",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_139796_03",
+      "strm": "139796",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "DAN410_635458_05",
+      "strm": "635458",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "STA280_753182_02",
+      "strm": "753182",
+      "sessionCode": "02"
+    },
+    {
+      "courses": "DAN960_140824_01",
+      "strm": "140824",
+      "sessionCode": "01"
+    },
+    {
+      "courses": "STA280_123553_09",
+      "strm": "123553",
+      "sessionCode": "09"
+    },
+    {
+      "courses": "DAN960_343418_03",
+      "strm": "343418",
+      "sessionCode": "03"
+    },
+    {
+      "courses": "STA280_593721_06",
+      "strm": "593721",
+      "sessionCode": "06"
+    },
+    {
+      "courses": "STA280_845871_05",
+      "strm": "845871",
+      "sessionCode": "05"
+    },
+    {
+      "courses": "POL430_972897_02",
+      "strm": "972897",
+      "sessionCode": "02"
+    }
+  ],
+  "needsGrading": 0,
+  "discussionCount": 500
+}

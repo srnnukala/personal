@@ -1,0 +1,71 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "assignments": [
+      {
+        "employeeId": "2562227",
+        "learnerPk": "2757",
+        "coursePk": "1284",
+        "assignmentPk": "20663",
+        "previousGrade": "0",
+        "is10x": false,
+        "escalationReason": null,
+        "escalated": false,
+        "group": null,
+        "attempts": [
+          {
+            "attemptPk": "138322",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u05a1] Week 5 Assignment 1: Educational Theories in Practice",
+            "submittedDate": "2023-07-05T08:46:11-05:00",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/1284\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/1284\/gradebook\/speed_grader?assignment_id=20663&student_id=2757&facAttempt=1"
+          }
+        ]
+      },
+      {
+        "employeeId": "2573717",
+        "learnerPk": "2604",
+        "coursePk": "1284",
+        "assignmentPk": "20663",
+        "previousGrade": "0",
+        "is10x": false,
+        "escalationReason": null,
+        "escalated": false,
+        "group": null,
+        "attempts": [
+          {
+            "attemptPk": "138321",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u05a1] Week 5 Assignment 1: Educational Theories in Practice",
+            "submittedDate": "2023-07-18T07:43:00-05:00",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/1284\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/1284\/gradebook\/speed_grader?assignment_id=20663&student_id=2604&facAttempt=1"
+          }
+        ]
+      },
+      {
+        "employeeId": "2571078",
+        "learnerPk": "4992",
+        "coursePk": "1533",
+        "assignmentPk": "24352",
+        "previousGrade": "0",
+        "is10x": false,
+        "escalationReason": null,
+        "escalated": false,
+        "group": null,
+        "attempts": [
+          {
+            "attemptPk": "140149",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u02a1] Week 2 Assignment 1: Applying the Behavioral Learning Theory",
+            "submittedDate": "2023-07-05T08:58:18-05:00",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/1533\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/1533\/gradebook\/speed_grader?assignment_id=24352&student_id=4992&facAttempt=1"
+          }
+        ]
+      }
+    ]
+  }
+}

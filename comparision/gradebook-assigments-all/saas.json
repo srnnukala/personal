@@ -1,0 +1,362 @@
+{
+  "ACC100": {
+    "sectionCount": 1,
+    "assignments": [
+      {
+        "assignmentId": "V2VlayAxIERpc2N1c3Npb24gLSBBY2NvdW50aW5nIElzIEFsbCBBcm91bmQgVXM=",
+        "assignmentTitle": "Week 1 Discussion - Accounting Is All Around Us",
+        "dueDate": "2025-07-14T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxIC0gSG9tZXdvcms6IENoYXB0ZXIgMQ==",
+        "assignmentTitle": "Week 1 - Homework: Chapter 1",
+        "dueDate": "2025-07-14T13:00:00Z",
+        "points": 35,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAyIC0gSG9tZXdvcms6IENoYXB0ZXIgMg==",
+        "assignmentTitle": "Week 2 - Homework: Chapter 2",
+        "dueDate": "2025-07-21T13:00:00Z",
+        "points": 35,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayAyIERpc2N1c3Npb24gLSBTdHJhdGVnaWVzIGZvciBTdWNjZXNz",
+        "assignmentTitle": "Week 2 Discussion - Strategies for Success",
+        "dueDate": "2025-07-21T13:00:00Z",
+        "points": 20,
+        "overdueCount": 2
+      },
+      {
+        "assignmentId": "V2VlayAyIC0gUXVpejogQ2hhcHRlcnMgMSBhbmQgMg==",
+        "assignmentTitle": "Week 2 - Quiz: Chapters 1 and 2",
+        "dueDate": "2025-07-21T13:00:00Z",
+        "points": 20,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayAzIEFzc2lnbm1lbnQgLSBNYXN0ZXJpbmcgdGhlIEFjY291bnRpbmcgQ3ljbGUsIFBhcnQg\nSQ==",
+        "assignmentTitle": "Week 3 Assignment - Mastering the Accounting Cycle, Part I",
+        "dueDate": "2025-07-28T13:00:00Z",
+        "points": 110,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayAzIC0gSG9tZXdvcms6IENoYXB0ZXIgMw==",
+        "assignmentTitle": "Week 3 - Homework: Chapter 3",
+        "dueDate": "2025-07-28T13:00:00Z",
+        "points": 35,
+        "overdueCount": 3
+      },
+      {
+        "assignmentId": "V2VlayA0IC0gUXVpejogQ2hhcHRlcnMgMyBhbmQgNA==",
+        "assignmentTitle": "Week 4 - Quiz: Chapters 3 and 4",
+        "dueDate": "2025-08-04T13:00:00Z",
+        "points": 20,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayA0IERpc2N1c3Npb24gLSBJbXBhY3Qgb2YgdGhlIEFjY291bnRpbmcgQ3ljbGUgb24gQnVz\naW5lc3MgUGxhbm5pbmc=",
+        "assignmentTitle": "Week 4 Discussion - Impact of the Accounting Cycle on Business Planning",
+        "dueDate": "2025-08-04T13:00:00Z",
+        "points": 20,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayA0IC0gSG9tZXdvcms6IENoYXB0ZXIgNA==",
+        "assignmentTitle": "Week 4 - Homework: Chapter 4",
+        "dueDate": "2025-08-04T13:00:00Z",
+        "points": 35,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayA1IC0gQXNzaWdubWVudDogTWFzdGVyaW5nIHRoZSBBY2NvdW50aW5nIEN5Y2xlLCBQYXJ0\nIElJ",
+        "assignmentTitle": "Week 5 - Assignment: Mastering the Accounting Cycle, Part II",
+        "dueDate": "2025-08-11T13:00:00Z",
+        "points": 110,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayA1IC0gSG9tZXdvcms6IENoYXB0ZXIgNQ==",
+        "assignmentTitle": "Week 5 - Homework: Chapter 5",
+        "dueDate": "2025-08-11T13:00:00Z",
+        "points": 35,
+        "overdueCount": 3
+      },
+      {
+        "assignmentId": "V2VlayA2IC0gUXVpejogQ2hhcHRlcnMgNSBhbmQgNg==",
+        "assignmentTitle": "Week 6 - Quiz: Chapters 5 and 6",
+        "dueDate": "2025-08-18T13:00:00Z",
+        "points": 20,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA2IERpc2N1c3Npb24gLSBVc2luZyBGaW5hbmNpYWwgU3RhdGVtZW50cyBmb3IgWW91ciBM\naWZl",
+        "assignmentTitle": "Week 6 Discussion - Using Financial Statements for Your Life",
+        "dueDate": "2025-08-18T13:00:00Z",
+        "points": 20,
+        "overdueCount": 11
+      },
+      {
+        "assignmentId": "V2VlayA2IC0gSG9tZXdvcms6IENoYXB0ZXIgNg==",
+        "assignmentTitle": "Week 6 - Homework: Chapter 6",
+        "dueDate": "2025-08-18T13:00:00Z",
+        "points": 35,
+        "overdueCount": 9
+      },
+      {
+        "assignmentId": "V2VlayA3IC0gQXNzaWdubWVudDogTWFzdGVyaW5nIHRoZSBBY2NvdW50aW5nIEN5Y2xlLCBQYXJ0\nIElJSQ==",
+        "assignmentTitle": "Week 7 - Assignment: Mastering the Accounting Cycle, Part III",
+        "dueDate": "2025-08-25T13:00:00Z",
+        "points": 110,
+        "overdueCount": 14
+      },
+      {
+        "assignmentId": "V2VlayA3IC0gSG9tZXdvcms6IENoYXB0ZXIgNw==",
+        "assignmentTitle": "Week 7 - Homework: Chapter 7",
+        "dueDate": "2025-08-25T13:00:00Z",
+        "points": 35,
+        "overdueCount": 13
+      },
+      {
+        "assignmentId": "V2VlayA4IC0gUXVpejogQ2hhcHRlcnMgNyBhbmQgOA==",
+        "assignmentTitle": "Week 8 - Quiz: Chapters 7 and 8",
+        "dueDate": "2025-09-01T13:00:00Z",
+        "points": 20,
+        "overdueCount": 15
+      },
+      {
+        "assignmentId": "V2VlayA4IERpc2N1c3Npb24gLSBGcmF1ZCBhbmQgSW50ZXJuYWwgQ29udHJvbHM=",
+        "assignmentTitle": "Week 8 Discussion - Fraud and Internal Controls",
+        "dueDate": "2025-09-01T13:00:00Z",
+        "points": 20,
+        "overdueCount": 15
+      },
+      {
+        "assignmentId": "V2VlayA4IC0gSG9tZXdvcms6IENoYXB0ZXIgOA==",
+        "assignmentTitle": "Week 8 - Homework: Chapter 8",
+        "dueDate": "2025-09-01T13:00:00Z",
+        "points": 35,
+        "overdueCount": 14
+      },
+      {
+        "assignmentId": "V2VlayA5IERpc2N1c3Npb24gLSBUaGUgTGFuZ3VhZ2Ugb2YgQnVzaW5lc3M=",
+        "assignmentTitle": "Week 9 Discussion - The Language of Business",
+        "dueDate": "2025-09-08T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayA5IC0gSG9tZXdvcms6IENoYXB0ZXIgOQ==",
+        "assignmentTitle": "Week 9 - Homework: Chapter 9",
+        "dueDate": "2025-09-08T13:00:00Z",
+        "points": 35,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCAtIEhvbWV3b3JrOiBDaGFwdGVyIDE4",
+        "assignmentTitle": "Week 10 - Homework: Chapter 18",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 35,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCAtIFF1aXo6IENoYXB0ZXJzIDkgYW5kIDE4",
+        "assignmentTitle": "Week 10 - Quiz: Chapters 9 and 18",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCBBc3NpZ25tZW50IC0gQW5udWFsIFBlcnNvbmFsIENhc2ggRmxvdyBBdWRpdA==",
+        "assignmentTitle": "Week 10 Assignment - Annual Personal Cash Flow Audit",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 80,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9uIC0gUmV0dXJuIG9uIEludmVzdG1lbnQgUmVmbGVjdGlvbg==",
+        "assignmentTitle": "Week 11 Discussion - Return on Investment Reflection",
+        "dueDate": "2025-09-22T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      }
+    ]
+  },
+  "ACC556": {
+    "sectionCount": 1,
+    "assignments": [
+      {
+        "assignmentId": "V2VlayAxIERpc2N1c3Npb24gLSBGaW5hbmNpYWwgU3RhdGVtZW50cw==",
+        "assignmentTitle": "Week 1 Discussion - Financial Statements",
+        "dueDate": "2025-07-14T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxIC0gSG9tZXdvcms6IENoYXB0ZXIgMS0y",
+        "assignmentTitle": "Week 1 - Homework: Chapter 1-2",
+        "dueDate": "2025-07-14T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAyIC0gSG9tZXdvcms6IENoYXB0ZXIgNS02",
+        "assignmentTitle": "Week 2 - Homework: Chapter 5-6",
+        "dueDate": "2025-07-21T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAyIERpc2N1c3Npb24gLSBEaWZmZXJlbmNlcyBpbiBJbmNvbWUgU3RhdGVtZW50cw==",
+        "assignmentTitle": "Week 2 Discussion - Differences in Income Statements",
+        "dueDate": "2025-07-21T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAzIC0gSG9tZXdvcms6IENoYXB0ZXIgNw==",
+        "assignmentTitle": "Week 3 - Homework: Chapter 7",
+        "dueDate": "2025-07-28T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAzIERpc2N1c3Npb24gLSBJbnRlcm5hbCBDb250cm9scw==",
+        "assignmentTitle": "Week 3 Discussion - Internal Controls",
+        "dueDate": "2025-07-28T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayA0IC0gSG9tZXdvcmsgQ2hhcHRlciAyNQ==",
+        "assignmentTitle": "Week 4 - Homework Chapter 25",
+        "dueDate": "2025-08-04T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayA0IERpc2N1c3Npb24gLSBDYXBpdGFsIEludmVzdG1lbnRz",
+        "assignmentTitle": "Week 4 Discussion - Capital Investments",
+        "dueDate": "2025-08-04T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayA1IC0gSG9tZXdvcms6IENoYXB0ZXIgOA==",
+        "assignmentTitle": "Week 5 - Homework: Chapter 8",
+        "dueDate": "2025-08-11T13:00:00Z",
+        "points": 25,
+        "overdueCount": 1
+      },
+      {
+        "assignmentId": "V2VlayA1IEFzc2lnbm1lbnQgLSBFdmFsdWF0ZSB0aGUgQ2FwaXRhbCBJbnZlc3RtZW50",
+        "assignmentTitle": "Week 5 Assignment - Evaluate the Capital Investment",
+        "dueDate": "2025-08-11T13:00:00Z",
+        "points": 150,
+        "overdueCount": 1
+      },
+      {
+        "assignmentId": "V2VlayA1IERpc2N1c3Npb24gLSBBY2NvdW50cyBSZWNlaXZhYmxlIE1hbmFnZW1lbnQ=",
+        "assignmentTitle": "Week 5 Discussion - Accounts Receivable Management",
+        "dueDate": "2025-08-11T13:00:00Z",
+        "points": 20,
+        "overdueCount": 1
+      },
+      {
+        "assignmentId": "V2VlayA2IC0gSG9tZXdvcms6IENoYXB0ZXJzIDIyLTIz",
+        "assignmentTitle": "Week 6 - Homework: Chapters 22-23",
+        "dueDate": "2025-08-18T13:00:00Z",
+        "points": 25,
+        "overdueCount": 4
+      },
+      {
+        "assignmentId": "V2VlayA2IERpc2N1c3Npb24gLSBCdWRnZXRpbmc=",
+        "assignmentTitle": "Week 6 Discussion - Budgeting",
+        "dueDate": "2025-08-18T13:00:00Z",
+        "points": 20,
+        "overdueCount": 7
+      },
+      {
+        "assignmentId": "V2VlayA3IERpc2N1c3Npb24gLSBMaWFiaWxpdGllcw==",
+        "assignmentTitle": "Week 7 Discussion - Liabilities",
+        "dueDate": "2025-08-25T13:00:00Z",
+        "points": 20,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA3IC0gQXNzaWdubWVudDogQ29tcGFueSBNYXN0ZXIgQnVkZ2V0",
+        "assignmentTitle": "Week 7 - Assignment: Company Master Budget",
+        "dueDate": "2025-08-25T13:00:00Z",
+        "points": 195,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA3IC0gSG9tZXdvcms6IENoYXB0ZXJzIDktMTA=",
+        "assignmentTitle": "Week 7 - Homework: Chapters 9-10",
+        "dueDate": "2025-08-25T13:00:00Z",
+        "points": 25,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA4IERpc2N1c3Npb24gLSBTdG9jayBTcGxpdCBvciBEaXZpZGVuZA==",
+        "assignmentTitle": "Week 8 Discussion - Stock Split or Dividend",
+        "dueDate": "2025-09-01T13:00:00Z",
+        "points": 20,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA4IC0gSG9tZXdvcms6IENoYXB0ZXIgMTE=",
+        "assignmentTitle": "Week 8 - Homework: Chapter 11",
+        "dueDate": "2025-09-01T13:00:00Z",
+        "points": 25,
+        "overdueCount": 8
+      },
+      {
+        "assignmentId": "V2VlayA5IERpc2N1c3Npb24gLSBDYXNoIEZsb3dz",
+        "assignmentTitle": "Week 9 Discussion - Cash Flows",
+        "dueDate": "2025-09-08T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayA5IC0gSG9tZXdvcms6IENoYXB0ZXIgMTI=",
+        "assignmentTitle": "Week 9 - Homework: Chapter 12",
+        "dueDate": "2025-09-08T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCBEaXNjdXNzaW9uIC0gU3VzdGFpbmFibGUgSW5jb21lIGFuZCBSYXRpbyBBbmFseXNp\ncw==",
+        "assignmentTitle": "Week 10 Discussion - Sustainable Income and Ratio Analysis",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCAtIEFzc2lnbm1lbnQ6IEhvcml6b250YWwgYW5kIFZlcnRpY2FsIEFuYWx5c2lz",
+        "assignmentTitle": "Week 10 - Assignment: Horizontal and Vertical Analysis",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 185,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMCAtIEhvbWV3b3JrOiBDaGFwdGVyIDEz",
+        "assignmentTitle": "Week 10 - Homework: Chapter 13",
+        "dueDate": "2025-09-15T13:00:00Z",
+        "points": 25,
+        "overdueCount": 0
+      },
+      {
+        "assignmentId": "V2VlayAxMSBEaXNjdXNzaW9uIC0gU3VtIEl0IFVw",
+        "assignmentTitle": "Week 11 Discussion - Sum It Up",
+        "dueDate": "2025-09-22T13:00:00Z",
+        "points": 20,
+        "overdueCount": 0
+      }
+    ]
+  }
+}

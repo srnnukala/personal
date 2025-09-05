@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": [
+    {
+      "courseName": "ACC100",
+      "sectionCount": 43,
+      "activityScore": "48.0",
+      "activityScoreTrend": 0,
+      "facultyComparison": "0.1"
+    }
+  ]
+}

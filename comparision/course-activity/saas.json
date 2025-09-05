@@ -1,0 +1,37 @@
+[
+  {
+    "courseName": "POL430",
+    "sectionCount": 4,
+    "activityScore": "75.9",
+    "activityScoreTrend": 2,
+    "facultyComparison": "-0.5"
+  },
+  {
+    "courseName": "STA280",
+    "sectionCount": 9,
+    "activityScore": "74.5",
+    "activityScoreTrend": 2,
+    "facultyComparison": "1.5"
+  },
+  {
+    "courseName": "DAN960",
+    "sectionCount": 5,
+    "activityScore": "87.1",
+    "activityScoreTrend": 2,
+    "facultyComparison": "-1.4"
+  },
+  {
+    "courseName": "DAN410",
+    "sectionCount": 5,
+    "activityScore": "78.6",
+    "activityScoreTrend": 2,
+    "facultyComparison": "-0.7"
+  },
+  {
+    "courseName": "LIT810",
+    "sectionCount": 1,
+    "activityScore": "81.9",
+    "activityScoreTrend": 1,
+    "facultyComparison": "0.6"
+  }
+]

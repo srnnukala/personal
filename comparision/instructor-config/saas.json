@@ -1,0 +1,851 @@
+{
+  "nav": [
+    {
+      "name": "Roster",
+      "conditional": "hasCourses",
+      "count": null,
+      "link": null,
+      "title": null,
+      "cssClass": null,
+      "page": [
+        {
+          "name": "Course Roster",
+          "route": "/roster/course-roster"
+        },
+        {
+          "name": "Dropped",
+          "route": "/roster/dropped"
+        }
+      ]
+    },
+    {
+      "name": "Messaging",
+      "conditional": "hasCourses",
+      "count": "messagesCountTotal",
+      "link": null,
+      "title": null,
+      "cssClass": null,
+      "page": [
+        {
+          "name": "Text Messages",
+          "count": "smsCounter",
+          "route": "/messages/text-messages",
+          "conditional": "isPI"
+        },
+        {
+          "name": "Ask Your Professor",
+          "count": "ayiCounter",
+          "route": "/messages/ask-your-instructor"
+        }
+      ]
+    },
+    {
+      "name": "Grading",
+      "conditional": "hasGpCourses",
+      "count": "gradingTotal",
+      "link": null,
+      "title": null,
+      "cssClass": null,
+      "page": [
+        {
+          "name": "Needs Grading",
+          "count": "needsGradingCount",
+          "route": "/grading/needs-grading"
+        },
+        {
+          "name": "Discussions",
+          "count": "discussionsCount",
+          "route": "/grading/discussions"
+        },
+        {
+          "name": "Submit Grades",
+          "route": "/grading/submit-grades"
+        }
+      ]
+    },
+    {
+      "name": "Compass",
+      "conditional": "courseActivityPilot",
+      "count": "compassCount",
+      "link": null,
+      "title": null,
+      "cssClass": null,
+      "page": [
+        {
+          "name": "Compass",
+          "route": "/compass",
+          "component": "courseActivityMenu"
+        }
+      ]
+    },
+    {
+      "name": "FAC Help",
+      "conditional": null,
+      "link": "https://strategicedinc.sharepoint.com/sites/SUTraining/Training%20Files/FAC_FAQ_Canvas/index.aspx#/",
+      "count": null
+    },
+    {
+      "name": "Notification",
+      "conditional": "hasNotification",
+      "count": null,
+      "link": null,
+      "title": "getNotificationTitle",
+      "cssClass": "getNotificationCssClass",
+      "page": [
+        {
+          "name": "Notification Content",
+          "content": "getNotificationContent"
+        }
+      ]
+    }
+  ],
+  "userFeatures": {
+    "email": {
+      "read": true,
+      "write": true
+    },
+    "alerts": true,
+    "roster": true,
+    "compass": true,
+    "dropped": true,
+    "facHelp": true,
+    "grading": true,
+    "gradebook": true,
+    "messaging": true,
+    "extensions": {
+      "read": true,
+      "write": true
+    },
+    "discussions": true,
+    "outreachTab": true,
+    "textMessage": {
+      "read": true,
+      "write": true
+    },
+    "courseRoster": true,
+    "needsGrading": true,
+    "submitGrades": true,
+    "notifications": true,
+    "gradebookScore": true,
+    "exportGradebook": true,
+    "allAttemptsValid": true,
+    "askYourProfessor": true,
+    "gradebookDetails": true,
+    "courseActivityMenu": true,
+    "gradebookInProgress": true,
+    "notificationContent": true
+  },
+  "generalProperties": {
+    "adaEmail": "adacoordinator@strayer.edu",
+    "adaAlertText": {
+      "overviewTab": true,
+      "addExtensionForm": false
+    },
+    "timezoneIdentifier": "America/New_York",
+    "timezone": "EST",
+    "exportCsv": true,
+    "createCaseUrl": "https://cs.strayer.edu",
+    "trainingLink": "https://strategicedinc.sharepoint.com/sites/SUTraining/Training%20Files/FAC_FAQ_Canvas/index.aspx#/",
+    "smsTrainingLink": "https://strategicedinc.sharepoint.com/sites/SUTraining/Training%20Files/FAC_Jobaid/index.aspx#/lessons/1C46tDeSOT4VzEZdMFfzMGfwkYxs4TOx",
+    "emailTrainingLink": "https://strategicedinc.sharepoint.com/sites/SUTraining/Training%20Files/FAC_Jobaid/index.aspx#/lessons/7joHyTPIekLTlt8Qc9JgZNW9sPv2JZMP",
+    "terms": {
+      "accommodation": "ADA Accommodation",
+      "accommodationAbv": "ADA",
+      "student": "Student"
+    },
+    "showLetterGrade": true
+  },
+  "placeHolders": {
+    "sms": [
+      "@videolink",
+      "@studentFirstName",
+      "@studentLastName",
+      "@myName"
+    ],
+    "email": [
+      "@video",
+      "@pastDueCount",
+      "@pastDueItems50+",
+      "@pastDueAllItems",
+      "@coachInfo",
+      "@courseName",
+      "@courseTextingNumber",
+      "@currentGrade",
+      "@dropDate",
+      "@lastAccessDate",
+      "@myFirstName",
+      "@myLastName",
+      "@myName",
+      "@studentFirstName",
+      "@studentLastName",
+      "@studentMobile",
+      "@studentName"
+    ]
+  },
+  "tableColumns": {
+    "search": [
+      {
+        "propName": "lastName",
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "default": 1,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "grade",
+        "columnName": "Grade",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "daysToDrop",
+        "columnName": "Drop",
+        "filterTitle": "Days to Drop",
+        "type": "number",
+        "sortable": true,
+        "filterBy": true,
+        "show": true
+      },
+      {
+        "propName": "alerts",
+        "columnName": "Alerts",
+        "filterBy": true,
+        "type": "number",
+        "sortable": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "lastAccessDt",
+        "filterBy": true,
+        "columnName": "Access",
+        "filterTitle": "Last Access",
+        "type": "date",
+        "sortable": true,
+        "show": true
+      },
+      {
+        "propName": "outreachSearch",
+        "columnName": "Outreach",
+        "type": "date",
+        "sortable": true,
+        "sortBy": "lastOutreachDt",
+        "filterBy": true,
+        "show": true
+      }
+    ],
+    "courseRoster": [
+      {
+        "propName": "Batch",
+        "type": "string",
+        "sortable": false,
+        "selectAll": true,
+        "batchId": "gp",
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "lastName",
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "grade",
+        "columnName": "Grade",
+        "type": "number",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "activityScoreBand",
+        "columnName": "Lvl",
+        "filterTitle": "Activity Level",
+        "type": "number",
+        "sortable": true,
+        "filterBy": true,
+        "show": true
+      },
+      {
+        "propName": "alerts",
+        "columnName": "Alerts",
+        "filterBy": true,
+        "type": "string",
+        "sortable": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "overdueCount",
+        "columnName": "Missing",
+        "type": "number",
+        "sortable": true,
+        "filterBy": true,
+        "sortByDir": "asc",
+        "show": true
+      },
+      {
+        "propName": "daysToDrop",
+        "columnName": "Drop",
+        "filterTitle": "Days to Drop",
+        "type": "number",
+        "sortable": true,
+        "default": true,
+        "filterBy": true,
+        "show": true
+      },
+      {
+        "propName": "lastAccessDt",
+        "columnName": "Access",
+        "filterTitle": "Last Access",
+        "filterBy": true,
+        "type": "date",
+        "sortable": true,
+        "show": true
+      },
+      {
+        "propName": "outreachSearch",
+        "columnName": "Outreach",
+        "type": "date",
+        "sortable": true,
+        "sortBy": "lastOutreachDt",
+        "filterBy": true,
+        "show": true
+      },
+      {
+        "propName": "courseName",
+        "columnName": "Course",
+        "filterBy": true,
+        "type": "string",
+        "sortable": false,
+        "show": false
+      },
+      {
+        "propName": "tags",
+        "filterBy": true,
+        "columnName": "Tags",
+        "type": "string",
+        "sortable": false,
+        "show": true
+      },
+      {
+        "propName": "smsActive",
+        "show": false,
+        "filterBy": true
+      },
+      {
+        "propName": "filterByList",
+        "show": false,
+        "filterBy": true
+      },
+      {
+        "propName": "gradebookFilter",
+        "show": false,
+        "filterBy": true
+      }
+    ],
+    "dropped": [
+      {
+        "propName": "fullName",
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "droppedDate",
+        "sortBy": "droppedOutDate",
+        "columnName": "Drop Date",
+        "type": "date",
+        "sortable": true,
+        "default": 1,
+        "sortByDir": "desc",
+        "filterBy": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "courseName",
+        "columnName": "Course",
+        "filterBy": true,
+        "type": "string",
+        "sortable": false,
+        "show": false
+      }
+    ],
+    "courseActivity": [
+      {
+        "propName": "BatchCourse",
+        "type": "string",
+        "sortable": false,
+        "selectAll": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "sectionId",
+        "default": 1,
+        "columnName": "Section",
+        "type": "string",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "average",
+        "columnName": "Activity",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "comparison",
+        "columnName": "Sec. Comp.",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "averageGrade",
+        "columnName": "Avg. Grade",
+        "type": "number",
+        "sortable": true,
+        "show": true
+      },
+      {
+        "propName": "studentCount",
+        "columnName": "Seats",
+        "type": "number",
+        "sortable": true,
+        "show": true
+      },
+      {
+        "propName": "priority",
+        "columnName": "Priority",
+        "type": "number",
+        "sortable": true,
+        "show": true
+      },
+      {
+        "propName": "droppedCount",
+        "columnName": "Dropped",
+        "type": "number",
+        "sortable": true,
+        "show": true
+      }
+    ],
+    "ayi": [
+      {
+        "propName": "courseName",
+        "columnName": "Course",
+        "filterBy": false,
+        "type": "string",
+        "sortable": true,
+        "default": 1,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "newPosts",
+        "columnName": "New Posts",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "replies",
+        "columnName": "Replies to Me",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "link",
+        "columnName": "Link",
+        "type": "string",
+        "sortable": false,
+        "show": true,
+        "mobile": true
+      }
+    ],
+    "submitGrades": [
+      {
+        "propName": "lastName",
+        "default": true,
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "grade",
+        "columnName": "Grade",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "totalPoints",
+        "columnName": "Points",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "gradeLetterMidterm",
+        "columnName": "Midterm",
+        "sortBy": "gradeLetterMidterm",
+        "type": "string",
+        "sortable": true,
+        "show": false,
+        "mobile": true
+      },
+      {
+        "propName": "gradeLetterFinal",
+        "columnName": "Final",
+        "sortBy": "gradeLetterFinal",
+        "type": "string",
+        "sortable": true,
+        "show": false,
+        "mobile": true
+      },
+      {
+        "propName": "status",
+        "columnName": "Status",
+        "sortBy": "gradeSubmitted",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      }
+    ],
+    "needsGrading": [
+      {
+        "propName": "lastName",
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "filterBy": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "grade",
+        "columnName": "Grade",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "assignmentTitle",
+        "columnName": "Item",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true,
+        "courseSections": true
+      },
+      {
+        "propName": "previousGrade",
+        "columnName": "Prev",
+        "filterTitle": "Previous Attempt",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "submittedDate",
+        "default": true,
+        "sortByDir": "asc",
+        "columnName": "Submitted",
+        "type": "date",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "group",
+        "columnName": "Group",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "tags",
+        "filterBy": true,
+        "columnName": "Tags",
+        "type": "string",
+        "sortable": false,
+        "show": true
+      },
+      {
+        "propName": "courseName",
+        "columnName": "Course",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": false,
+        "mobile": true
+      }
+    ],
+    "discussions": [
+      {
+        "propName": "lastName",
+        "columnName": "Name",
+        "type": "string",
+        "sortable": true,
+        "filterBy": false,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "grade",
+        "columnName": "Grade",
+        "type": "number",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "assignmentTitle",
+        "columnName": "Post",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true,
+        "courseSections": true
+      },
+      {
+        "propName": "submittedDate",
+        "default": true,
+        "sortByDir": "asc",
+        "columnName": "Posted",
+        "type": "date",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "group",
+        "columnName": "Group",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "tags",
+        "filterBy": true,
+        "columnName": "Tags",
+        "type": "string",
+        "sortable": false,
+        "show": true
+      },
+      {
+        "propName": "courseName",
+        "columnName": "Course",
+        "type": "string",
+        "sortable": true,
+        "filterBy": true,
+        "show": false
+      },
+      {
+        "propName": "hideDiscussion",
+        "columnName": "Hide Discussion",
+        "type": "button",
+        "sortable": false,
+        "filterBy": false,
+        "show": true,
+        "mobile": true
+      }
+    ],
+    "pilotUsers": [
+      {
+        "propName": "lastName",
+        "type": "string",
+        "columnName": "Last Name",
+        "sortable": true,
+        "mobile": true,
+        "show": true
+      },
+      {
+        "propName": "firstName",
+        "type": "string",
+        "columnName": "First Name",
+        "sortable": true,
+        "mobile": true,
+        "show": true
+      },
+      {
+        "propName": "userName",
+        "type": "string",
+        "columnName": "User Name",
+        "sortable": true,
+        "mobile": true,
+        "show": true
+      },
+      {
+        "propName": "pilot",
+        "type": "string",
+        "columnName": "Pilot",
+        "sortable": true,
+        "mobile": true,
+        "show": true
+      }
+    ],
+    "templates": [
+      {
+        "propName": "title",
+        "columnName": "Title",
+        "type": "string",
+        "sortable": true,
+        "default": 1,
+        "show": true,
+        "mobile": true,
+        "isToggle": true
+      },
+      {
+        "propName": "templateType",
+        "columnName": "Type",
+        "type": "string",
+        "sortable": true,
+        "show": true,
+        "mobile": true,
+        "filterBy": true
+      },
+      {
+        "propName": "communicationCategoryName",
+        "columnName": "Category",
+        "type": "string",
+        "sortable": true,
+        "show": true,
+        "mobile": true,
+        "filterBy": true
+      },
+      {
+        "propName": "rowCreatedTime",
+        "columnName": "Created",
+        "type": "date",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      },
+      {
+        "propName": "rowModifiedTime",
+        "columnName": "Updated",
+        "type": "date",
+        "sortable": true,
+        "show": true,
+        "mobile": true
+      }
+    ]
+  },
+  "outreachTypes": [
+    {
+      "id": 1,
+      "name": "Email"
+    },
+    {
+      "id": 2,
+      "name": "Phone Call"
+    },
+    {
+      "id": 3,
+      "name": "Text Message"
+    },
+    {
+      "id": 4,
+      "name": "Chat/Instant Message"
+    },
+    {
+      "id": 5,
+      "name": "In Person"
+    },
+    {
+      "id": 6,
+      "name": "Voicemail"
+    }
+  ],
+  "outreachCategories": [
+    {
+      "id": 1,
+      "category": "Book or Lab Purchase/Activation",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 2,
+      "category": "Drop/Action Plan",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 3,
+      "category": "Extra Support/Encouragement (ex. Priority Flag, Change in Activity, Other)",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 4,
+      "category": "Generic Update or Announcement",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 5,
+      "category": "Instructional Support",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 6,
+      "category": "Late Enrollment",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 7,
+      "category": "Overdue Assignment(s)",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 8,
+      "category": "Positive Reinforcement",
+      "categoryType": "Targeted Outreach"
+    },
+    {
+      "id": 9,
+      "category": "Pre-term Outreach",
+      "categoryType": "Global Inbox"
+    },
+    {
+      "id": 10,
+      "category": "Upcoming Assignments",
+      "categoryType": "Global Inbox"
+    },
+    {
+      "id": 11,
+      "category": "New Student Orientation",
+      "categoryType": "Targeted Outreach"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "courses": [
+      {
+        "courseId": "IT1006_007271_1_1195_J02_01",
+        "coursePk": "_203002_1",
+        "courseName": "IT1006 - Aug 05 2019 to Oct 11 2019 - Section 01",
+        "learners": [
+          {
+            "learnerPk": "_1028574_1",
+            "employeeID": "2319736",
+            "firstName": "Christopher",
+            "lastName": "Milanese",
+            "emailId": "CRMILANESE@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1101958_1",
+            "employeeID": "2361170",
+            "firstName": "Domani",
+            "lastName": "Reid",
+            "emailId": "DOMANI.REID@YAHOO.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1090637_1",
+            "employeeID": "2356947",
+            "firstName": "James",
+            "lastName": "Hemsworth",
+            "emailId": "JHEMSWORTH13316@OUTLOOK.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1101794_1",
+            "employeeID": "2360832",
+            "firstName": "Kai",
+            "lastName": "Nash",
+            "emailId": "KAIMITCHELL1982@YAHOO.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1101772_1",
+            "employeeID": "2279315",
+            "firstName": "Willie",
+            "lastName": "Begay",
+            "emailId": "NATANIB@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1102541_1",
+            "employeeID": "2342719",
+            "firstName": "Jeffrey",
+            "lastName": "Luer",
+            "emailId": "LUER142@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1005620_1",
+            "employeeID": "2306880",
+            "firstName": "Beau",
+            "lastName": "McCoy",
+            "emailId": "B.J_MCCOY@YAHOO.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1078487_1",
+            "employeeID": "2320941",
+            "firstName": "Jerry",
+            "lastName": "Pace",
+            "emailId": "MPACE2013LC@YAHOO.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1101616_1",
+            "employeeID": "2255324",
+            "firstName": "Joseph",
+            "lastName": "Rider",
+            "emailId": "JRIDER21567@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_566514_1",
+            "employeeID": "1377972",
+            "firstName": "Travis",
+            "lastName": "Haines",
+            "emailId": "HAINES.TRAVIS@OUTLOOK.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          }
+        ]
+      },
+      {
+        "courseId": "IT1006_007271_1_1195_J02_02",
+        "coursePk": "_203100_1",
+        "courseName": "IT1006 - Aug 05 2019 to Oct 11 2019 - Section 02",
+        "learners": [
+          {
+            "learnerPk": "_396366_1",
+            "employeeID": "2038531",
+            "firstName": "Silas",
+            "lastName": "Kerns",
+            "emailId": "ATGURU@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1101891_1",
+            "employeeID": "2361028",
+            "firstName": "Brandon",
+            "lastName": "Partin",
+            "emailId": "BRANDONCLAYPARTIN@OUTLOOK.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1102314_1",
+            "employeeID": "2365887",
+            "firstName": "Deborah",
+            "lastName": "Savage",
+            "emailId": "SAVAGED725@YAHOO.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          },
+          {
+            "learnerPk": "_1030074_1",
+            "employeeID": "2325252",
+            "firstName": "johan",
+            "lastName": "gomez",
+            "emailId": "JOHANMIGUELGOMEZ7@GMAIL.EXAMPLE.COM",
+            "droppedOutDate": "2019-07-31T12:05:04-05:00"
+          }
+        ]
+      }
+    ]
+  }
+}

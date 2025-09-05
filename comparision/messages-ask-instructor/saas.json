@@ -1,0 +1,29 @@
+{
+  "totalPosts": 10,
+  "discussionSummary": [
+    {
+      "newPosts": 5,
+      "replies": 4,
+      "link": "https://devcanvas.strayer.edu/courses/96462/discussion_topics/32017",
+      "courseName": "Jewelry 394"
+    },
+    {
+      "newPosts": 0,
+      "replies": 10,
+      "link": "https://devcanvas.strayer.edu/courses/14694/discussion_topics/46453",
+      "courseName": "Toys 498"
+    },
+    {
+      "newPosts": 4,
+      "replies": 2,
+      "link": "https://devcanvas.strayer.edu/courses/14029/discussion_topics/71889",
+      "courseName": "Industrial 284"
+    },
+    {
+      "newPosts": 1,
+      "replies": 2,
+      "link": "https://devcanvas.strayer.edu/courses/78657/discussion_topics/17196",
+      "courseName": "Outdoors 270"
+    }
+  ]
+}

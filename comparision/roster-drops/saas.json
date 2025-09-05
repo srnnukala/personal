@@ -1,0 +1,582 @@
+[
+  {
+    "courseName": "PHY310 - 10/27/2024 to 12/25/2025 - Section 03",
+    "students": [
+      {
+        "firstName": "Vinnie",
+        "lastName": "Runolfsdottir",
+        "dropDate": "2025-02-11T09:06:42.767Z"
+      },
+      {
+        "firstName": "Emilie",
+        "lastName": "Wiegand",
+        "dropDate": "2025-01-20T07:12:42.399Z"
+      },
+      {
+        "firstName": "Rosie",
+        "lastName": "O'Reilly",
+        "dropDate": "2025-02-01T08:41:30.218Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 12/19/2024 to 6/15/2026 - Section 03",
+    "students": [
+      {
+        "firstName": "Nils",
+        "lastName": "Rempel",
+        "dropDate": "2025-02-20T06:59:42.952Z"
+      },
+      {
+        "firstName": "Shayne",
+        "lastName": "Buckridge",
+        "dropDate": "2025-02-28T00:57:56.814Z"
+      },
+      {
+        "firstName": "Maida",
+        "lastName": "Schuppe-Altenwerth",
+        "dropDate": "2025-02-14T14:57:30.282Z"
+      },
+      {
+        "firstName": "Mohamed",
+        "lastName": "Marks",
+        "dropDate": "2025-01-31T10:05:58.909Z"
+      },
+      {
+        "firstName": "Nathanael",
+        "lastName": "Batz",
+        "dropDate": "2025-02-05T13:21:20.700Z"
+      },
+      {
+        "firstName": "Zack",
+        "lastName": "Ebert",
+        "dropDate": "2025-02-05T06:54:40.558Z"
+      },
+      {
+        "firstName": "Modesta",
+        "lastName": "Bernier",
+        "dropDate": "2025-03-07T21:18:27.938Z"
+      },
+      {
+        "firstName": "Audreanne",
+        "lastName": "Hartmann",
+        "dropDate": "2025-01-22T01:52:45.282Z"
+      }
+    ]
+  },
+  {
+    "courseName": "CHEM220 - 12/4/2024 to 1/10/2026 - Section 02",
+    "students": [
+      {
+        "firstName": "Halle",
+        "lastName": "Moore",
+        "dropDate": "2025-03-06T02:30:12.354Z"
+      },
+      {
+        "firstName": "Manley",
+        "lastName": "DuBuque",
+        "dropDate": "2025-03-09T11:36:26.344Z"
+      },
+      {
+        "firstName": "Chelsey",
+        "lastName": "Pacocha",
+        "dropDate": "2025-02-06T22:58:03.968Z"
+      }
+    ]
+  },
+  {
+    "courseName": "CHEM480 - 10/17/2024 to 1/7/2026 - Section 01",
+    "students": [
+      {
+        "firstName": "Karine",
+        "lastName": "Kunde",
+        "dropDate": "2025-02-08T06:04:45.102Z"
+      },
+      {
+        "firstName": "Laila",
+        "lastName": "Williamson",
+        "dropDate": "2025-02-13T22:43:25.094Z"
+      },
+      {
+        "firstName": "Julie",
+        "lastName": "Schultz",
+        "dropDate": "2025-02-12T20:19:50.691Z"
+      },
+      {
+        "firstName": "Ola",
+        "lastName": "Kub",
+        "dropDate": "2025-01-14T13:31:27.880Z"
+      },
+      {
+        "firstName": "Whitney",
+        "lastName": "Olson",
+        "dropDate": "2025-01-27T11:45:27.677Z"
+      },
+      {
+        "firstName": "Kendall",
+        "lastName": "Vandervort",
+        "dropDate": "2025-03-01T17:50:53.929Z"
+      },
+      {
+        "firstName": "Shakira",
+        "lastName": "Carroll",
+        "dropDate": "2025-03-03T09:35:09.809Z"
+      },
+      {
+        "firstName": "Marguerite",
+        "lastName": "Buckridge",
+        "dropDate": "2025-01-31T03:08:09.374Z"
+      },
+      {
+        "firstName": "Athena",
+        "lastName": "Mante",
+        "dropDate": "2025-02-20T02:53:30.750Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 4/25/2025 to 10/14/2025 - Section 01",
+    "students": [
+      {
+        "firstName": "Israel",
+        "lastName": "Terry",
+        "dropDate": "2025-02-08T05:28:42.994Z"
+      },
+      {
+        "firstName": "Orin",
+        "lastName": "Kling",
+        "dropDate": "2025-03-12T05:39:34.358Z"
+      },
+      {
+        "firstName": "Lois",
+        "lastName": "Mitchell",
+        "dropDate": "2025-01-17T21:24:27.390Z"
+      },
+      {
+        "firstName": "Justina",
+        "lastName": "Tromp",
+        "dropDate": "2025-01-15T21:44:46.130Z"
+      },
+      {
+        "firstName": "Alexie",
+        "lastName": "Roob",
+        "dropDate": "2025-02-23T10:50:29.400Z"
+      },
+      {
+        "firstName": "Adeline",
+        "lastName": "Barton",
+        "dropDate": "2025-01-24T14:18:13.575Z"
+      },
+      {
+        "firstName": "Guido",
+        "lastName": "Bosco",
+        "dropDate": "2025-01-21T08:06:06.013Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 11/11/2024 to 6/6/2026 - Section 07",
+    "students": [
+      {
+        "firstName": "Elton",
+        "lastName": "Stamm",
+        "dropDate": "2025-01-15T16:06:14.609Z"
+      },
+      {
+        "firstName": "Edythe",
+        "lastName": "Strosin",
+        "dropDate": "2025-03-08T21:59:59.565Z"
+      },
+      {
+        "firstName": "Simone",
+        "lastName": "Bechtelar",
+        "dropDate": "2025-03-09T01:49:23.535Z"
+      },
+      {
+        "firstName": "Raquel",
+        "lastName": "Dare",
+        "dropDate": "2025-02-20T23:59:03.488Z"
+      },
+      {
+        "firstName": "Damaris",
+        "lastName": "Durgan",
+        "dropDate": "2025-03-02T14:42:32.472Z"
+      },
+      {
+        "firstName": "Jannie",
+        "lastName": "Mills",
+        "dropDate": "2025-01-31T01:22:31.167Z"
+      },
+      {
+        "firstName": "Giovanni",
+        "lastName": "Hettinger",
+        "dropDate": "2025-02-20T19:29:46.187Z"
+      }
+    ]
+  },
+  {
+    "courseName": "PHY310 - 1/10/2025 to 1/24/2026 - Section 01",
+    "students": [
+      {
+        "firstName": "Marcella",
+        "lastName": "Adams",
+        "dropDate": "2025-01-13T01:39:12.021Z"
+      },
+      {
+        "firstName": "Terence",
+        "lastName": "Bayer",
+        "dropDate": "2025-02-19T07:56:35.289Z"
+      },
+      {
+        "firstName": "Hal",
+        "lastName": "Howell",
+        "dropDate": "2025-02-25T21:42:20.296Z"
+      },
+      {
+        "firstName": "Kale",
+        "lastName": "Hayes",
+        "dropDate": "2025-02-07T20:52:01.183Z"
+      },
+      {
+        "firstName": "Germaine",
+        "lastName": "Kris",
+        "dropDate": "2025-02-18T04:52:01.489Z"
+      },
+      {
+        "firstName": "Beth",
+        "lastName": "Heidenreich",
+        "dropDate": "2025-02-24T16:53:27.020Z"
+      },
+      {
+        "firstName": "Clara",
+        "lastName": "Gorczany",
+        "dropDate": "2025-01-08T18:18:02.137Z"
+      }
+    ]
+  },
+  {
+    "courseName": "PHY310 - 9/20/2024 to 11/16/2025 - Section 02",
+    "students": [
+      {
+        "firstName": "Cassandra",
+        "lastName": "Denesik",
+        "dropDate": "2025-02-07T16:11:57.368Z"
+      },
+      {
+        "firstName": "Alvah",
+        "lastName": "Padberg",
+        "dropDate": "2025-03-09T06:29:04.587Z"
+      },
+      {
+        "firstName": "Enrico",
+        "lastName": "Kirlin",
+        "dropDate": "2025-01-24T19:14:30.175Z"
+      },
+      {
+        "firstName": "Jamil",
+        "lastName": "Conroy",
+        "dropDate": "2025-02-13T18:59:53.652Z"
+      },
+      {
+        "firstName": "Wyman",
+        "lastName": "Schroeder",
+        "dropDate": "2025-01-07T14:30:34.625Z"
+      },
+      {
+        "firstName": "Major",
+        "lastName": "Harris",
+        "dropDate": "2025-02-12T08:06:36.911Z"
+      },
+      {
+        "firstName": "Jacklyn",
+        "lastName": "Kling",
+        "dropDate": "2025-01-22T14:38:21.269Z"
+      },
+      {
+        "firstName": "Eva",
+        "lastName": "Langworth",
+        "dropDate": "2025-02-19T13:11:30.771Z"
+      }
+    ]
+  },
+  {
+    "courseName": "CHEM480 - 12/29/2024 to 7/3/2026 - Section 02",
+    "students": [
+      {
+        "firstName": "Ursula",
+        "lastName": "Spinka",
+        "dropDate": "2025-02-17T05:33:38.080Z"
+      },
+      {
+        "firstName": "Clemmie",
+        "lastName": "Mann",
+        "dropDate": "2025-02-18T17:53:01.365Z"
+      },
+      {
+        "firstName": "Margot",
+        "lastName": "Hirthe",
+        "dropDate": "2025-03-12T16:03:12.554Z"
+      },
+      {
+        "firstName": "Seamus",
+        "lastName": "VonRueden",
+        "dropDate": "2025-01-27T11:30:16.527Z"
+      },
+      {
+        "firstName": "Allan",
+        "lastName": "O'Hara",
+        "dropDate": "2025-02-05T10:06:11.785Z"
+      }
+    ]
+  },
+  {
+    "courseName": "CHEM220 - 3/28/2025 to 8/14/2026 - Section 01",
+    "students": [
+      {
+        "firstName": "Alexandrine",
+        "lastName": "Cremin",
+        "dropDate": "2025-01-29T17:34:37.470Z"
+      },
+      {
+        "firstName": "Cynthia",
+        "lastName": "Russel",
+        "dropDate": "2025-01-12T02:48:38.223Z"
+      },
+      {
+        "firstName": "John",
+        "lastName": "Mayer",
+        "dropDate": "2025-01-28T01:59:58.072Z"
+      },
+      {
+        "firstName": "Malachi",
+        "lastName": "Bruen",
+        "dropDate": "2025-01-26T20:10:31.143Z"
+      },
+      {
+        "firstName": "Ana",
+        "lastName": "Zboncak",
+        "dropDate": "2025-01-29T09:23:34.719Z"
+      },
+      {
+        "firstName": "Mike",
+        "lastName": "Altenwerth",
+        "dropDate": "2025-01-30T03:31:46.500Z"
+      },
+      {
+        "firstName": "Leopoldo",
+        "lastName": "Blick",
+        "dropDate": "2025-03-11T05:12:49.553Z"
+      },
+      {
+        "firstName": "Cristina",
+        "lastName": "Flatley",
+        "dropDate": "2025-01-31T17:07:27.435Z"
+      },
+      {
+        "firstName": "Jamel",
+        "lastName": "Pfeffer",
+        "dropDate": "2025-02-15T08:21:27.897Z"
+      },
+      {
+        "firstName": "Noemi",
+        "lastName": "Cormier",
+        "dropDate": "2025-02-25T14:31:10.846Z"
+      },
+      {
+        "firstName": "Edgar",
+        "lastName": "Grimes",
+        "dropDate": "2025-02-13T12:10:11.913Z"
+      },
+      {
+        "firstName": "Maybelle",
+        "lastName": "Ullrich",
+        "dropDate": "2025-01-27T01:29:25.201Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 5/5/2025 to 7/24/2026 - Section 06",
+    "students": [
+      {
+        "firstName": "Candida",
+        "lastName": "Mosciski-Bartoletti",
+        "dropDate": "2025-02-18T14:59:02.704Z"
+      },
+      {
+        "firstName": "Hillard",
+        "lastName": "Berge",
+        "dropDate": "2025-01-11T13:15:03.860Z"
+      },
+      {
+        "firstName": "Moshe",
+        "lastName": "Aufderhar",
+        "dropDate": "2025-03-11T07:58:49.612Z"
+      },
+      {
+        "firstName": "Johathan",
+        "lastName": "Ratke",
+        "dropDate": "2025-03-12T04:41:13.416Z"
+      },
+      {
+        "firstName": "Joaquin",
+        "lastName": "Gorczany",
+        "dropDate": "2025-01-22T19:00:09.427Z"
+      },
+      {
+        "firstName": "Stan",
+        "lastName": "Fay",
+        "dropDate": "2025-01-21T22:28:04.286Z"
+      },
+      {
+        "firstName": "Hilario",
+        "lastName": "Marks",
+        "dropDate": "2025-01-07T05:11:24.531Z"
+      }
+    ]
+  },
+  {
+    "courseName": "LIT780 - 6/30/2025 to 12/17/2025 - Section 01",
+    "students": [
+      {
+        "firstName": "Cheyanne",
+        "lastName": "Kiehn-MacGyver",
+        "dropDate": "2025-03-05T05:29:29.369Z"
+      },
+      {
+        "firstName": "Dewayne",
+        "lastName": "Price",
+        "dropDate": "2025-01-29T06:39:49.779Z"
+      },
+      {
+        "firstName": "Rene",
+        "lastName": "Satterfield",
+        "dropDate": "2025-02-18T17:43:15.954Z"
+      },
+      {
+        "firstName": "Rosalee",
+        "lastName": "Adams",
+        "dropDate": "2025-02-28T15:41:11.078Z"
+      },
+      {
+        "firstName": "Lauryn",
+        "lastName": "Dibbert",
+        "dropDate": "2025-02-11T11:37:27.099Z"
+      },
+      {
+        "firstName": "Alexandria",
+        "lastName": "Bahringer-Carter",
+        "dropDate": "2025-02-27T07:07:36.357Z"
+      },
+      {
+        "firstName": "Maryse",
+        "lastName": "Reilly",
+        "dropDate": "2025-02-16T12:23:57.744Z"
+      },
+      {
+        "firstName": "Agustina",
+        "lastName": "Morar",
+        "dropDate": "2025-01-07T22:28:52.587Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 2/15/2025 to 8/29/2026 - Section 02",
+    "students": [
+      {
+        "firstName": "Makenna",
+        "lastName": "Marquardt",
+        "dropDate": "2025-02-28T06:33:51.710Z"
+      },
+      {
+        "firstName": "Anderson",
+        "lastName": "Wiza",
+        "dropDate": "2025-02-23T12:42:03.629Z"
+      },
+      {
+        "firstName": "Layne",
+        "lastName": "Nienow",
+        "dropDate": "2025-03-06T10:45:13.223Z"
+      },
+      {
+        "firstName": "Marina",
+        "lastName": "Keebler",
+        "dropDate": "2025-02-18T12:25:46.697Z"
+      },
+      {
+        "firstName": "Emmitt",
+        "lastName": "Abernathy",
+        "dropDate": "2025-02-19T05:54:04.506Z"
+      },
+      {
+        "firstName": "Flossie",
+        "lastName": "Kovacek",
+        "dropDate": "2025-02-05T04:59:38.125Z"
+      }
+    ]
+  },
+  {
+    "courseName": "PHY310 - 9/2/2025 to 3/14/2026 - Section 04",
+    "students": [
+      {
+        "firstName": "Ernest",
+        "lastName": "Blick-O'Hara",
+        "dropDate": "2025-01-31T16:53:01.820Z"
+      },
+      {
+        "firstName": "Mackenzie",
+        "lastName": "Turner",
+        "dropDate": "2025-01-28T02:05:19.610Z"
+      },
+      {
+        "firstName": "Josiah",
+        "lastName": "Nicolas",
+        "dropDate": "2025-01-09T17:48:54.529Z"
+      },
+      {
+        "firstName": "Gretchen",
+        "lastName": "Zieme",
+        "dropDate": "2025-02-25T02:39:18.235Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 3/24/2025 to 6/5/2026 - Section 04",
+    "students": [
+      {
+        "firstName": "Laverna",
+        "lastName": "Crona",
+        "dropDate": "2025-01-25T09:57:33.366Z"
+      },
+      {
+        "firstName": "Hector",
+        "lastName": "MacGyver",
+        "dropDate": "2025-01-27T17:07:06.700Z"
+      },
+      {
+        "firstName": "Sean",
+        "lastName": "Hermann",
+        "dropDate": "2025-03-02T05:51:08.249Z"
+      }
+    ]
+  },
+  {
+    "courseName": "ENG430 - 6/19/2025 to 3/28/2026 - Section 05",
+    "students": [
+      {
+        "firstName": "Frank",
+        "lastName": "McKenzie",
+        "dropDate": "2025-02-04T11:32:43.400Z"
+      },
+      {
+        "firstName": "Gavin",
+        "lastName": "Wisozk",
+        "dropDate": "2025-01-21T18:53:05.361Z"
+      },
+      {
+        "firstName": "Sigurd",
+        "lastName": "Metz",
+        "dropDate": "2025-01-21T10:59:40.752Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "status": "NOT_SUBMITTED",
+    "submittedDt": null,
+    "submittedBy": null,
+    "gradeDetails": [
+      {
+        "employeeId": "200861690",
+        "gradeLetter": "C",
+        "needsGrading": true,
+        "totalPoints": 702.3,
+        "submitted": 15,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200836155",
+        "gradeLetter": "F",
+        "needsGrading": false,
+        "totalPoints": 140,
+        "submitted": 1,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200550064",
+        "gradeLetter": "F",
+        "needsGrading": true,
+        "totalPoints": 150,
+        "submitted": 9,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200860388",
+        "gradeLetter": "F",
+        "needsGrading": true,
+        "totalPoints": 149.52,
+        "submitted": 3,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200495059",
+        "gradeLetter": "F",
+        "needsGrading": false,
+        "totalPoints": 232,
+        "submitted": 3,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200514311",
+        "gradeLetter": "F",
+        "needsGrading": false,
+        "totalPoints": 0,
+        "submitted": 1,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "200862316",
+        "gradeLetter": "F",
+        "needsGrading": false,
+        "totalPoints": 430.97,
+        "submitted": 4,
+        "totalSubmissions": 18
+      },
+      {
+        "employeeId": "130321764",
+        "gradeLetter": "F",
+        "needsGrading": false,
+        "totalPoints": 132.71,
+        "submitted": 1,
+        "totalSubmissions": 18
+      }
+    ]
+  }
+}

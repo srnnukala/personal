@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "totalPosts": 2,
+    "discussionSummary": [
+      {
+        "newPosts": 0,
+        "replies": 2,
+        "courseId": "BUS407030VA016-1196-001",
+        "coursePk": "_244395_1",
+        "link": "https:\/\/dvsu.strayer.edu\/webapps\/discussionboard\/do\/forum?action=list_threads&course_id=_244395_1&nav=discussion_board_entry&conf_id=_210712_1&forum_id=_2908587_1",
+        "courseName": "Training and Development"
+      }
+    ]
+  }
+}

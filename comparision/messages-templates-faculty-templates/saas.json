@@ -1,0 +1,74 @@
+[
+  {
+    "templateId": 100,
+    "title": "cupiditate cura",
+    "template": "email",
+    "isDefault": false,
+    "subject": "Culpo traho alter caritas.",
+    "content": "<p>Calcar theca civitas. Correptius attonbitus vomito ipsa credo tyrannus trans absconditus adsidue cariosus. Depereo tergiversatio caries iure animus advenio vis aliquid arx.\nCommemoro tabgo pauper termes celer tergeo sordeo tonsor adeptio considero. Quo impedit solutio sol. Voluptates turba usitas clarus inflammatio verecundia trucido torrens.\nVomer thalassinus mollitia tollo charisma verto color. Natus studio debeo. Adduco ustilo aduro laboriosam distinctio stipes.</p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": "12",
+    "rowCreatedTime": "2025-07-13T07:25:42.489Z",
+    "rowModifiedTime": "2025-07-12T09:23:42.708Z",
+    "templateType": "Email Template"
+  },
+  {
+    "templateId": 101,
+    "title": "aut similique abutor",
+    "template": "email",
+    "isDefault": false,
+    "subject": "Aggredior attollo utrimque cunabula vel.",
+    "content": "<p>Crepusculum comparo dolore curso una. Tantillus demo collum solus suspendo vilitas coadunatio ars curia admiratio. Studio urbanus adficio vulpes alii accedo.\nPorro omnis vomer adsum terminatio quae sufficio cresco valde ascisco. Coniuratio tandem texo asperiores acceptus alii velit. Placeat caute qui quae.\nMolestias demitto curtus. Id clementia corporis capillus sumo adfero accedo cicuta vesper. Uredo terror vis ago patruus umerus summa animus.</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"video\"></span> </p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": "8",
+    "rowCreatedTime": "2025-07-30T14:40:31.471Z",
+    "rowModifiedTime": null,
+    "templateType": "Email Template"
+  },
+  {
+    "templateId": 102,
+    "title": "vulnero ratione",
+    "template": "signature",
+    "isDefault": false,
+    "subject": null,
+    "content": "<p>Ventus tandem validus accusantium tempore theologus vinco aliqua. Supplanto volaticus tendo cohaero adinventitias vergo vulgus carmen perferendis depereo. Curtus capillus tego depereo.\nCapillus cilicium magnam. Suppono comptus conduco illum autem arceo. Argumentum uter fugiat clam statim ager vallum.\nCurvo aveho admitto. Dedecor centum solutio agnosco concido audio curiositas surgo demoror. Validus titulus accedo cuppedia velum tumultus admoveo.</p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": null,
+    "rowCreatedTime": "2025-08-05T08:19:28.439Z",
+    "rowModifiedTime": "2025-08-05T06:50:41.326Z",
+    "templateType": "Email Signature"
+  },
+  {
+    "templateId": 103,
+    "title": "speciosus",
+    "template": "email",
+    "isDefault": false,
+    "subject": "Copia somniculosus ex socius.",
+    "content": "<p>Aestus tripudio cogo amita adeo varietas. Audentia vulpes veritatis audacia casso. Contabesco vesper victoria delinquo cernuus studio.\nAdeo temperantia carus architecto coerceo contego. Basium deporto agnitio celer comminor non amplexus cerno iure. Utroque thalassinus succurro ventus.\nConvoco avaritia umquam. Sono bibo terra autus iste. Circumvenio tabula comes vigor aspernatur.</p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": "2",
+    "rowCreatedTime": "2025-08-10T23:10:28.169Z",
+    "rowModifiedTime": null,
+    "templateType": "Email Template"
+  },
+  {
+    "templateId": 104,
+    "title": "terror",
+    "template": "signature",
+    "isDefault": false,
+    "subject": null,
+    "content": "<p>Aequus altus timor debeo arbustum tamquam voco. Caelestis ascit fugit tamisium vulpes apto clementia verto. Deleniti clarus deripio acquiro cogo vulgus adicio temeritas.\nTabgo truculenter alienus tamen cribro templum cribro urbanus. Vero arbustum ambitus error corrumpo iusto. Supellex adfectus chirographum sustineo ambitus angelus astrum modi bos nemo.\nTerror solio depraedor auctor iure adeo ipsa atavus ullam solum. Speciosus laboriosam creator terra damno accommodo. Harum acquiro magni adaugeo ago pariatur acer admitto tabgo tyrannus.</p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": null,
+    "rowCreatedTime": "2025-08-21T13:19:11.731Z",
+    "rowModifiedTime": "2025-08-20T21:24:22.842Z",
+    "templateType": "Text Message Template"
+  },
+  {
+    "templateId": 105,
+    "title": "territo ipsam caritas",
+    "template": "signature",
+    "isDefault": false,
+    "subject": null,
+    "content": "<p>Caute aiunt congregatio atque dolore. Adiuvo dolorum utor decor voro et conicio caelum caput. Patruus aspicio aperiam canto aedificium verto aperio argumentum curvo nulla.\nValde cuius conturbo calco cavus bellum carpo accedo. Triumphus cauda damno toties textus vigilo apto. A damno uberrime.\nDecens trucido solus inflammatio doloremque. Antea texo amor varius contabesco compono carcer adipisci. Cupressus nostrum aro reprehenderit viriliter vomer totidem cena tamquam deripio.</p><p>Sincerely,</p><p><span class=\"placeholders\" data-type=\"placeholders\" data-id=\"myName\">Test</span></p>",
+    "category": null,
+    "rowCreatedTime": "2025-07-31T09:25:33.208Z",
+    "rowModifiedTime": null,
+    "templateType": "Text Message Template"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "notificationsTotalLength": 1,
+    "notifications": [
+      {
+        "notificationId": "3041",
+        "notificationType": "none",
+        "notificationTitle": "The quick brown fox jumped over the lazy dog.",
+        "notificationMessage": "Sound is transmitted through gases, plasma, and liquids as longitudinal waves, also called compression waves. It requires a medium to propagate. Through solids, however, it can be transmitted as both longitudinal waves and transverse waves. Longitudinal  @link are waves of alternating pressure deviations from the equilibrium pressure, causing local regions of compression and rarefaction, while transverse waves (in solids) are waves of alternating shear stress at right angle to the direction of propagation.",
+        "notificationLinkText": "sound waves",
+        "notificationLinkUrl": "https://en.wikipedia.org/wiki/Sound#Waves",
+        "notificationStart": "2022-09-23 08:30:00",
+        "notificationEnd": "2022-09-29 09:45:00",
+        "notificationRemoved": "",
+        "notificationActive": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "assignments": [
+      {
+        "employeeId": "2645507",
+        "learnerPk": "23421",
+        "coursePk": "5176",
+        "assignmentPk": "89984",
+        "previousGrade": "170.00",
+        "is10x": true,
+        "group": "B",
+        "attempts": [
+          {
+            "attemptPk": "636904",
+            "attemptOrder": 2,
+            "assignmentTitle": "[u04a1] Week 4 Assignment: Mission, Vision, and Ethics in Organizations",
+            "submittedDate": "2024-02-21 07:10:59",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook\/speed_grader?assignment_id=89984&student_id=23421&facAttempt=2",
+            "escalationReason": null,
+            "escalated": false
+          }
+        ]
+      },
+      {
+        "employeeId": "2670484",
+        "learnerPk": "10449",
+        "coursePk": "5176",
+        "assignmentPk": "89984",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "A",
+        "attempts": [
+          {
+            "attemptPk": "636903",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u04a1] Week 4 Assignment: Mission, Vision, and Ethics in Organizations",
+            "submittedDate": "2024-02-20 05:34:50",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook\/speed_grader?assignment_id=89984&student_id=10449&facAttempt=1",
+            "escalationReason": "test1",
+            "escalated": true
+          }
+        ]
+      },
+      {
+        "employeeId": "2670484",
+        "learnerPk": "10449",
+        "coursePk": "5176",
+        "assignmentPk": "89986",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "C",
+        "attempts": [
+          {
+            "attemptPk": "636907",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u06a1] Week 6 Assignment: Organizational Structure and Goals",
+            "submittedDate": "2024-02-01 07:45:44",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook\/speed_grader?assignment_id=89986&student_id=10449&facAttempt=1",
+            "escalationReason": "plagiarism review",
+            "escalated": true
+          }
+        ]
+      },
+      {
+        "employeeId": "2675787",
+        "learnerPk": "21457",
+        "coursePk": "5177",
+        "assignmentPk": "89989",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "A",
+        "attempts": [
+          {
+            "attemptPk": "637074",
+            "attemptOrder": 3,
+            "assignmentTitle": "[u04a1] Week 4 Assignment: Mission, Vision, and Ethics in Organizations",
+            "submittedDate": "2024-01-30 03:16:32",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook\/speed_grader?assignment_id=89989&student_id=21457&facAttempt=3",
+            "escalationReason": "zzzzp",
+            "escalated": true
+          }
+        ]
+      },
+      {
+        "employeeId": "2670484",
+        "learnerPk": "10449",
+        "coursePk": "5176",
+        "assignmentPk": "89990",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "D",
+        "attempts": [
+          {
+            "attemptPk": "636915",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u10a1] Week 10 Assignment: Corporate Social Responsibility",
+            "submittedDate": "2024-02-01 07:58:42",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5176\/gradebook\/speed_grader?assignment_id=89990&student_id=10449&facAttempt=1",
+            "escalationReason": null,
+            "escalated": false
+          }
+        ]
+      },
+      {
+        "employeeId": "2679361",
+        "learnerPk": "21496",
+        "coursePk": "5177",
+        "assignmentPk": "89991",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "C",
+        "attempts": [
+          {
+            "attemptPk": "637078",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u06a1] Week 6 Assignment: Organizational Structure and Goals",
+            "submittedDate": "2024-02-02 04:48:35",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook\/speed_grader?assignment_id=89991&student_id=21496&facAttempt=1",
+            "escalationReason": "testing1",
+            "escalated": true
+          }
+        ]
+      },
+      {
+        "employeeId": "2589837",
+        "learnerPk": "6157",
+        "coursePk": "5177",
+        "assignmentPk": "89991",
+        "previousGrade": "",
+        "is10x": true,
+        "group": "D",
+        "attempts": [
+          {
+            "attemptPk": "637076",
+            "attemptOrder": 1,
+            "assignmentTitle": "[u06a1] Week 6 Assignment: Organizational Structure and Goals",
+            "submittedDate": "2024-02-02 05:00:32",
+            "gradeDetailsUrl": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook",
+            "assignmentLink": "https:\/\/qacapella.instructure.com\/courses\/5177\/gradebook\/speed_grader?assignment_id=89991&student_id=6157&facAttempt=1",
+            "escalationReason": "test111111",
+            "escalated": true
+          }
+        ]
+      }
+    ]
+  }
+}

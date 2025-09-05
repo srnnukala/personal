@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": {
+    "response": {
+      "status": null,
+      "requestId": null,
+      "requestDate": null,
+      "fileKey": null,
+      "errorDescription": null
+    },
+    "status": "SUCCESS",
+    "errorCode": 0,
+    "errorString": null
+  }
+}

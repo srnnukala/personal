@@ -1,0 +1,3202 @@
+[
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_460186_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_406732_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_404578_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_534904_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_534201_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_534201_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_924614_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_924614_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_406732_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "LIT810_886561_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_406732_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_924614_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_343418_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_534201_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_635458_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_406732_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_460186_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_845871_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_152339_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_897984_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_534201_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_343418_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_335471_08",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_140824_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_343418_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_534904_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "LIT810_886561_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_897984_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_140824_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_534201_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "LIT810_886561_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_337655_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_404578_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_337655_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_140824_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_929248_07",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_929248_07",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_845871_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_924614_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_635458_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_865507_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_924614_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_335471_08",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_140824_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_335471_08",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_534904_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_344403_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_344403_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_929248_07",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_335471_08",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_929248_07",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_123553_09",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "POL430_406732_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_140824_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_460186_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_635458_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_139796_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_911764_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN410_897984_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_753182_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_865507_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN960_343418_03",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "DAN960_152339_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_845871_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "POL430_972897_02",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_404578_04",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_460186_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": false
+  },
+  {
+    "courseSisId": "LIT810_886561_01",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  },
+  {
+    "courseSisId": "STA280_335471_08",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "DAN410_635458_05",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": true,
+    "final": false
+  },
+  {
+    "courseSisId": "STA280_593721_06",
+    "gradingScale": [
+      {
+        "name": "A",
+        "value": 0.9,
+        "calculated_value": 90
+      },
+      {
+        "name": "B",
+        "value": 0.8,
+        "calculated_value": 80
+      },
+      {
+        "name": "C",
+        "value": 0.7,
+        "calculated_value": 70
+      },
+      {
+        "name": "D",
+        "value": 0.6,
+        "calculated_value": 60
+      },
+      {
+        "name": "F",
+        "value": 0,
+        "calculated_value": 0
+      }
+    ],
+    "midterm": false,
+    "final": true
+  }
+]

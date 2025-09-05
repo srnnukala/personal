@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "status": "success",
+  "message": [
+    {
+      "read_status": 1,
+      "send_status": "ACCEPTED",
+      "message": "<p>Test FAC<\/p>",
+      "hash": "S21yMzNja2RMZEI5MFlWRXVSNThyZz09Ojr5wT6mfwBuoixC6XD19M91",
+      "timestamp": "2020-09-15T20:50:33+00:00"
+    }
+  ]
+}
