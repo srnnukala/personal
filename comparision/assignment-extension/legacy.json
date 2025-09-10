@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "status": "Success",
+  "message": [
+    {
+      "extension_id": "1041",
+      "assignment_pk": "2945094",
+      "assignment_title": "[u01a1] Unit 1 Assignment 1",
+      "extension_date": "2021-03-02T06:00:00-06:00",
+      "extension_duration": 44,
+      "comment": "florem ipsum dolar sit"
+    },
+    {
+      "extension_id": "1042",
+      "assignment_pk": "2945113",
+      "assignment_title": "[u07a1] Unit 7 Assignment 1",
+      "extension_date": "2021-03-02T06:00:00-06:00",
+      "extension_duration": 2,
+      "comment": null
+    }
+  ]
+}

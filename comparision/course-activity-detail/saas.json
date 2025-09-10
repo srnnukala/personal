@@ -1,0 +1,159 @@
+{
+  "sectionCount": 4,
+  "sectionCountAll": 34,
+  "studentCount": 114,
+  "avgGrade": "84.53",
+  "priorityFlagCount": 16,
+  "facultyComparison": "1.0",
+  "activityScoreTrend": "2",
+  "courseSections": [
+    {
+      "sectionId": "PHY310_812364_03",
+      "sectionName": "PHY310_812364_03 - Section 1",
+      "average": "60.0",
+      "comparison": "1.6",
+      "trend": "2",
+      "level": "High",
+      "averageGrade": "87.7",
+      "studentCount": 34,
+      "priority": 1,
+      "droppedCount": 2
+    },
+    {
+      "sectionId": "PHY310_374940_01",
+      "sectionName": "PHY310_374940_01 - Section 8",
+      "average": "61.4",
+      "comparison": "3.3",
+      "trend": "2",
+      "level": "Medium",
+      "averageGrade": "80.8",
+      "studentCount": 13,
+      "priority": 0,
+      "droppedCount": 3
+    },
+    {
+      "sectionId": "PHY310_279799_02",
+      "sectionName": "PHY310_279799_02 - Section 9",
+      "average": "79.1",
+      "comparison": "3.0",
+      "trend": "1",
+      "level": "Very High",
+      "averageGrade": null,
+      "studentCount": 37,
+      "priority": 8,
+      "droppedCount": 0
+    },
+    {
+      "sectionId": "PHY310_679749_04",
+      "sectionName": "PHY310_679749_04 - Section 46",
+      "average": "61.5",
+      "comparison": "-3.8",
+      "trend": "2",
+      "level": "Low",
+      "averageGrade": "85.1",
+      "studentCount": 30,
+      "priority": 7,
+      "droppedCount": 2
+    }
+  ],
+  "courseName": "PHY310",
+  "courseTitle": "petticoat",
+  "courseActivityScore": [
+    {
+      "week": 1,
+      "activityScore": "86.2"
+    },
+    {
+      "week": 2,
+      "activityScore": "80.3"
+    },
+    {
+      "week": 3,
+      "activityScore": "72.0"
+    },
+    {
+      "week": 4,
+      "activityScore": "63.0"
+    },
+    {
+      "week": 5,
+      "activityScore": "82.4"
+    },
+    {
+      "week": 6,
+      "activityScore": "64.7"
+    },
+    {
+      "week": 7,
+      "activityScore": "87.8"
+    },
+    {
+      "week": 8,
+      "activityScore": "75.3"
+    },
+    {
+      "week": 9,
+      "activityScore": "55.0"
+    }
+  ],
+  "courseActivityScoreAvg": [
+    {
+      "week": 1,
+      "activityScore": "86.2"
+    },
+    {
+      "week": 2,
+      "activityScore": "80.3"
+    },
+    {
+      "week": 3,
+      "activityScore": "72.0"
+    },
+    {
+      "week": 4,
+      "activityScore": "63.0"
+    },
+    {
+      "week": 5,
+      "activityScore": "82.4"
+    },
+    {
+      "week": 6,
+      "activityScore": "64.7"
+    },
+    {
+      "week": 7,
+      "activityScore": "87.8"
+    },
+    {
+      "week": 8,
+      "activityScore": "75.3"
+    },
+    {
+      "week": 9,
+      "activityScore": "55.0"
+    }
+  ],
+  "activityScoreDist": [
+    {
+      "activityDesc": "High",
+      "count": 7,
+      "percent": 31.8
+    },
+    {
+      "activityDesc": "Very High",
+      "count": 4,
+      "percent": 18.2
+    },
+    {
+      "activityDesc": "Medium",
+      "count": 3,
+      "percent": 13.6
+    },
+    {
+      "activityDesc": "Low",
+      "count": 8,
+      "percent": 36.4
+    }
+  ]
+}

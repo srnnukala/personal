@@ -1,0 +1,65 @@
+{
+  "sectionName": "ACC100 - Section 52",
+  "sectionComparison": "-4.0",
+  "activityScore": "52.0",
+  "avgGrade": 56.72,
+  "studentCount": 31,
+  "priorityFlagCount": 16,
+  "droppedCount": 8,
+  "sectionActivityScore": [
+    {
+      "activityScore": "64.0",
+      "week": 2
+    },
+    {
+      "activityScore": "60.0",
+      "week": 3
+    },
+    {
+      "activityScore": "56.0",
+      "week": 4
+    },
+    {
+      "activityScore": "50.0",
+      "week": 5
+    },
+    {
+      "activityScore": "52.0",
+      "week": 6
+    },
+    {
+      "activityScore": "50.0",
+      "week": 7
+    },
+    {
+      "activityScore": "51.0",
+      "week": 8
+    },
+    {
+      "activityScore": "52.0",
+      "week": 9
+    }
+  ],
+  "activityScoreDist": [
+    {
+      "activityDesc": "High",
+      "count": 6,
+      "percent": "19.4"
+    },
+    {
+      "activityDesc": "Low",
+      "count": 13,
+      "percent": "41.9"
+    },
+    {
+      "activityDesc": "Medium",
+      "count": 2,
+      "percent": "6.5"
+    },
+    {
+      "activityDesc": "Very High",
+      "count": 10,
+      "percent": "32.3"
+    }
+  ]
+}
