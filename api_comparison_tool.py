@@ -93,17 +93,57 @@ class APIComparisonAnalyzer:
             
         return paths
     
+    def normalize_field_path(self, field_path: str) -> str:
+        """Normalize field paths by removing common wrapper prefixes like 'message[0]' -> '[0]'"""
+        # Remove common wrapper prefixes to match equivalent inner fields
+        if field_path.startswith('message[0].'):
+            return field_path.replace('message[0].', '[0].')
+        elif field_path == 'message[0]':
+            return '[0]'
+        elif field_path.startswith('message.'):
+            return field_path.replace('message.', '')
+        elif field_path == 'message':
+            return 'root_array'  # Normalize message array to a common name
+        return field_path
+
     def analyze_api_differences(self, saas_paths: Dict, legacy_paths: Dict, api_name: str) -> List[Dict]:
         """Analyze differences between SAAS and Legacy APIs"""
-        all_paths = set(saas_paths.keys()) | set(legacy_paths.keys())
+        # Create normalized path mappings
+        saas_normalized = {}
+        legacy_normalized = {}
+        
+        for path, value in saas_paths.items():
+            norm_path = self.normalize_field_path(path)
+            saas_normalized[norm_path] = (path, value)
+            
+        for path, value in legacy_paths.items():
+            norm_path = self.normalize_field_path(path)
+            legacy_normalized[norm_path] = (path, value)
+        
+        # Get all normalized paths and their corresponding original paths
+        all_normalized_paths = set(saas_normalized.keys()) | set(legacy_normalized.keys())
         comparison_results = []
         
-        for field_path in sorted(all_paths):
-            saas_present = field_path in saas_paths
-            legacy_present = field_path in legacy_paths
+        # Skip wrapper fields that should be ignored as per the issue description
+        ignored_fields = {'code', 'status', 'message', 'root_array'}
+        
+        for norm_path in sorted(all_normalized_paths):
+            # Skip ignored wrapper fields
+            if norm_path in ignored_fields:
+                continue
+                
+            saas_present = norm_path in saas_normalized
+            legacy_present = norm_path in legacy_normalized
             
-            saas_value = saas_paths.get(field_path)
-            legacy_value = legacy_paths.get(field_path)
+            # Get original paths and values
+            saas_original_path = saas_normalized[norm_path][0] if saas_present else norm_path
+            legacy_original_path = legacy_normalized[norm_path][0] if legacy_present else norm_path
+            
+            saas_value = saas_normalized[norm_path][1] if saas_present else None
+            legacy_value = legacy_normalized[norm_path][1] if legacy_present else None
+            
+            # Use the more descriptive original path for display
+            display_path = legacy_original_path if legacy_present else saas_original_path
             
             saas_type = self.get_type_description(saas_value) if saas_present else ""
             legacy_type = self.get_type_description(legacy_value) if legacy_present else ""
@@ -130,16 +170,16 @@ class APIComparisonAnalyzer:
                     notes.append("Complex structure - requires deeper analysis")
                 
                 # Format differences
-                if field_path.endswith("Date") or "date" in field_path.lower():
+                if display_path.endswith("Date") or "date" in display_path.lower():
                     if saas_value and legacy_value and str(saas_value) != str(legacy_value):
                         notes.append("Date format may differ between systems")
                 
-                if field_path.endswith("Url") or field_path.endswith("Link"):
+                if display_path.endswith("Url") or display_path.endswith("Link"):
                     if saas_value and legacy_value:
                         notes.append("URL structure comparison needed")
             
             # Additional structural analysis
-            if field_path.endswith("[0]") and saas_present and legacy_present:
+            if norm_path.endswith("[0]") and saas_present and legacy_present:
                 notes.append("Array structure - verify all elements have consistent schema")
             
             if not notes:
@@ -149,7 +189,7 @@ class APIComparisonAnalyzer:
                     notes.append("Standard field comparison")
             
             comparison_results.append({
-                'Field Path': field_path,
+                'Field Path': display_path,
                 'Present in SAAS': 'Yes' if saas_present else 'No',
                 'Present in Legacy': 'Yes' if legacy_present else 'No',
                 'Type in SAAS': saas_type,
