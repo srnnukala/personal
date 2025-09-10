@@ -1,0 +1,25 @@
+API Name,Total Fields,SAAS Only,Legacy Only,Common Fields,Type Mismatches,Analysis Status
+assignment-extension,11,1,10,0,0,Complete
+course-activity-detail,35,34,1,0,0,Complete
+course-activity-overview,15,6,9,0,0,Complete
+course-activity-section,17,16,1,0,0,Complete
+discussion,30,13,17,0,0,Complete
+faculty-info-cu,18,3,1,14,1,Complete
+gradebook-assigments-all,48,18,30,0,0,Complete
+gradebook-export-status,16,4,11,1,1,Complete
+instructor-config,167,166,1,0,0,Complete
+kaltura-video-my-media,147,74,73,0,0,Complete
+messages-ask-instructor,19,7,12,0,0,Complete
+messages-course-message,18,7,11,0,0,Complete
+messages-notification,16,0,15,1,1,Complete
+messages-sms-inbox,23,14,9,0,0,Complete
+messages-template-by-id,1,0,0,1,0,Complete
+messages-templates-faculty-templates,27,11,16,0,0,Complete
+needs-grading-cu,39,17,22,0,0,Complete
+needs-grading-su,39,17,22,0,0,Complete
+roster-drops,23,7,16,0,0,Complete
+roster-enrollments-cu,126,78,48,0,0,Complete
+roster-enrollments-flexpath,126,78,48,0,0,Complete
+roster-enrollments-su,130,78,52,0,0,Complete
+submit-grades-grade-details,10,9,1,0,0,Complete
+submit-grades-{{exam}}-course-sis-id-{{course-sis-id}},24,10,13,1,0,Complete
