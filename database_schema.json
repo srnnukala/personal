@@ -1,0 +1,514 @@
+{
+  "schema_info": {
+    "name": "System Database Schema",
+    "description": "Database schema for user management, systems, services, and permissions",
+    "version": "1.0",
+    "generated_date": "2024-01-01"
+  },
+  "tables": {
+    "SS_USER": {
+      "attributes": [
+        [
+          "user_id",
+          "INT",
+          "PRIMARY KEY",
+          "User unique identifier"
+        ],
+        [
+          "username",
+          "VARCHAR(50)",
+          "UNIQUE NOT NULL",
+          "User login name"
+        ],
+        [
+          "email",
+          "VARCHAR(100)",
+          "NOT NULL",
+          "User email address"
+        ],
+        [
+          "first_name",
+          "VARCHAR(50)",
+          "NOT NULL",
+          "User first name"
+        ],
+        [
+          "last_name",
+          "VARCHAR(50)",
+          "NOT NULL",
+          "User last name"
+        ],
+        [
+          "created_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Account creation date"
+        ],
+        [
+          "last_login",
+          "TIMESTAMP",
+          "NULL",
+          "Last login timestamp"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Account status"
+        ],
+        [
+          "password_hash",
+          "VARCHAR(255)",
+          "NOT NULL",
+          "Encrypted password"
+        ]
+      ],
+      "description": "User accounts and authentication information"
+    },
+    "GROUP": {
+      "attributes": [
+        [
+          "group_id",
+          "INT",
+          "PRIMARY KEY",
+          "Group unique identifier"
+        ],
+        [
+          "group_name",
+          "VARCHAR(100)",
+          "UNIQUE NOT NULL",
+          "Group name"
+        ],
+        [
+          "group_description",
+          "TEXT",
+          "NULL",
+          "Group description"
+        ],
+        [
+          "group_type",
+          "VARCHAR(50)",
+          "NOT NULL",
+          "Type of group (role, department, etc.)"
+        ],
+        [
+          "created_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Group creation date"
+        ],
+        [
+          "created_by",
+          "INT",
+          "NOT NULL",
+          "User who created the group"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Group status"
+        ]
+      ],
+      "description": "User groups for permissions and organization"
+    },
+    "COM_SYSTEM": {
+      "attributes": [
+        [
+          "system_id",
+          "INT",
+          "PRIMARY KEY",
+          "System unique identifier"
+        ],
+        [
+          "system_name",
+          "VARCHAR(100)",
+          "UNIQUE NOT NULL",
+          "System name"
+        ],
+        [
+          "system_code",
+          "VARCHAR(20)",
+          "UNIQUE NOT NULL",
+          "System code"
+        ],
+        [
+          "system_description",
+          "TEXT",
+          "NULL",
+          "System description"
+        ],
+        [
+          "system_url",
+          "VARCHAR(255)",
+          "NULL",
+          "System base URL"
+        ],
+        [
+          "system_version",
+          "VARCHAR(20)",
+          "NULL",
+          "Current system version"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "System status"
+        ],
+        [
+          "created_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "System registration date"
+        ]
+      ],
+      "description": "System definitions and configuration"
+    },
+    "SERVICE": {
+      "attributes": [
+        [
+          "service_id",
+          "INT",
+          "PRIMARY KEY",
+          "Service unique identifier"
+        ],
+        [
+          "service_name",
+          "VARCHAR(100)",
+          "NOT NULL",
+          "Service name"
+        ],
+        [
+          "service_code",
+          "VARCHAR(50)",
+          "UNIQUE NOT NULL",
+          "Service code"
+        ],
+        [
+          "service_description",
+          "TEXT",
+          "NULL",
+          "Service description"
+        ],
+        [
+          "service_type",
+          "VARCHAR(50)",
+          "NOT NULL",
+          "Type of service"
+        ],
+        [
+          "system_id",
+          "INT",
+          "NOT NULL",
+          "Associated system"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Service status"
+        ],
+        [
+          "created_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Service creation date"
+        ]
+      ],
+      "description": "Service definitions and capabilities"
+    },
+    "COM_MENU": {
+      "attributes": [
+        [
+          "menu_id",
+          "INT",
+          "PRIMARY KEY",
+          "Menu item unique identifier"
+        ],
+        [
+          "menu_name",
+          "VARCHAR(100)",
+          "NOT NULL",
+          "Menu item name"
+        ],
+        [
+          "menu_label",
+          "VARCHAR(100)",
+          "NOT NULL",
+          "Display label"
+        ],
+        [
+          "menu_url",
+          "VARCHAR(255)",
+          "NULL",
+          "Menu item URL"
+        ],
+        [
+          "menu_icon",
+          "VARCHAR(50)",
+          "NULL",
+          "Menu icon class"
+        ],
+        [
+          "parent_menu_id",
+          "INT",
+          "NULL",
+          "Parent menu item (for hierarchy)"
+        ],
+        [
+          "system_id",
+          "INT",
+          "NULL",
+          "Associated system"
+        ],
+        [
+          "group_id",
+          "INT",
+          "NULL",
+          "Required group for access"
+        ],
+        [
+          "sort_order",
+          "INT",
+          "DEFAULT 0",
+          "Display order"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Menu item status"
+        ],
+        [
+          "created_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Menu creation date"
+        ]
+      ],
+      "description": "Menu hierarchy and navigation structure"
+    },
+    "USER_GROUP": {
+      "attributes": [
+        [
+          "user_group_id",
+          "INT",
+          "PRIMARY KEY",
+          "Junction table unique identifier"
+        ],
+        [
+          "user_id",
+          "INT",
+          "NOT NULL",
+          "Reference to SS_USER"
+        ],
+        [
+          "group_id",
+          "INT",
+          "NOT NULL",
+          "Reference to GROUP"
+        ],
+        [
+          "assigned_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Assignment date"
+        ],
+        [
+          "assigned_by",
+          "INT",
+          "NOT NULL",
+          "User who made the assignment"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Assignment status"
+        ]
+      ],
+      "description": "Many-to-many relationship between users and groups"
+    },
+    "SERVICE_GROUP": {
+      "attributes": [
+        [
+          "service_group_id",
+          "INT",
+          "PRIMARY KEY",
+          "Junction table unique identifier"
+        ],
+        [
+          "service_id",
+          "INT",
+          "NOT NULL",
+          "Reference to SERVICE"
+        ],
+        [
+          "group_id",
+          "INT",
+          "NOT NULL",
+          "Reference to GROUP"
+        ],
+        [
+          "permission_level",
+          "VARCHAR(20)",
+          "DEFAULT 'READ'",
+          "Permission level (read, write, admin)"
+        ],
+        [
+          "assigned_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Assignment date"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Assignment status"
+        ]
+      ],
+      "description": "Many-to-many relationship between services and groups"
+    },
+    "SYSTEM_GROUP": {
+      "attributes": [
+        [
+          "system_group_id",
+          "INT",
+          "PRIMARY KEY",
+          "Junction table unique identifier"
+        ],
+        [
+          "system_id",
+          "INT",
+          "NOT NULL",
+          "Reference to COM_SYSTEM"
+        ],
+        [
+          "group_id",
+          "INT",
+          "NOT NULL",
+          "Reference to GROUP"
+        ],
+        [
+          "access_level",
+          "VARCHAR(20)",
+          "DEFAULT 'user'",
+          "Access level (user, admin, super_admin)"
+        ],
+        [
+          "assigned_date",
+          "TIMESTAMP",
+          "DEFAULT CURRENT_TIMESTAMP",
+          "Assignment date"
+        ],
+        [
+          "is_active",
+          "BOOLEAN",
+          "DEFAULT TRUE",
+          "Assignment status"
+        ]
+      ],
+      "description": "Many-to-many relationship between systems and groups"
+    }
+  },
+  "relationships": [
+    {
+      "from_table": "SS_USER",
+      "to_table": "USER_GROUP",
+      "cardinality": "1:N",
+      "from_column": "user_id",
+      "to_column": "user_id",
+      "description": "One user can belong to many groups"
+    },
+    {
+      "from_table": "GROUP",
+      "to_table": "USER_GROUP",
+      "cardinality": "1:N",
+      "from_column": "group_id",
+      "to_column": "group_id",
+      "description": "One group can have many users"
+    },
+    {
+      "from_table": "SERVICE",
+      "to_table": "SERVICE_GROUP",
+      "cardinality": "1:N",
+      "from_column": "service_id",
+      "to_column": "service_id",
+      "description": "One service can be assigned to many groups"
+    },
+    {
+      "from_table": "GROUP",
+      "to_table": "SERVICE_GROUP",
+      "cardinality": "1:N",
+      "from_column": "group_id",
+      "to_column": "group_id",
+      "description": "One group can access many services"
+    },
+    {
+      "from_table": "COM_SYSTEM",
+      "to_table": "SYSTEM_GROUP",
+      "cardinality": "1:N",
+      "from_column": "system_id",
+      "to_column": "system_id",
+      "description": "One system can be assigned to many groups"
+    },
+    {
+      "from_table": "GROUP",
+      "to_table": "SYSTEM_GROUP",
+      "cardinality": "1:N",
+      "from_column": "group_id",
+      "to_column": "group_id",
+      "description": "One group can access many systems"
+    },
+    {
+      "from_table": "COM_SYSTEM",
+      "to_table": "SERVICE",
+      "cardinality": "1:N",
+      "from_column": "system_id",
+      "to_column": "system_id",
+      "description": "One system can have many services"
+    },
+    {
+      "from_table": "COM_SYSTEM",
+      "to_table": "COM_MENU",
+      "cardinality": "1:N",
+      "from_column": "system_id",
+      "to_column": "system_id",
+      "description": "One system can have many menu items"
+    },
+    {
+      "from_table": "GROUP",
+      "to_table": "COM_MENU",
+      "cardinality": "1:N",
+      "from_column": "group_id",
+      "to_column": "group_id",
+      "description": "One group can control many menu items"
+    },
+    {
+      "from_table": "COM_MENU",
+      "to_table": "COM_MENU",
+      "cardinality": "1:N",
+      "from_column": "menu_id",
+      "to_column": "parent_menu_id",
+      "description": "Menu hierarchy (self-referencing)"
+    },
+    {
+      "from_table": "SS_USER",
+      "to_table": "GROUP",
+      "cardinality": "1:N",
+      "from_column": "user_id",
+      "to_column": "created_by",
+      "description": "User who created the group"
+    },
+    {
+      "from_table": "SS_USER",
+      "to_table": "USER_GROUP",
+      "cardinality": "1:N",
+      "from_column": "user_id",
+      "to_column": "assigned_by",
+      "description": "User who made the assignment"
+    }
+  ]
+}
