@@ -1,0 +1,114 @@
+# Database ERD - Text Representation
+
+```
+                    DATABASE ENTITY-RELATIONSHIP DIAGRAM
+                    ====================================
+
+Core Entities:
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│   SS_USER   │    │    GROUP    │    │ COM_SYSTEM  │    │   SERVICE   │
+├─────────────┤    ├─────────────┤    ├─────────────┤    ├─────────────┤
+│+ user_id    │    │+ group_id   │    │+ system_id  │    │+ service_id │
+│  username   │    │  group_name │    │  system_name│    │  service_name│
+│  email      │    │  description│    │  system_code│    │  service_code│
+│  first_name │    │  group_type │    │  description│    │  description│
+│  last_name  │    │  created_by │←───┤  system_url │    │# system_id  │←─┐
+│  created_date│    │  is_active  │    │  version    │    │  service_type│  │
+│  last_login │    │  ...        │    │  is_active  │    │  is_active  │  │
+│  is_active  │    └─────────────┘    │  ...        │    │  ...        │  │
+│  ...        │                       └─────────────┘    └─────────────┘  │
+└─────────────┘                                                           │
+                                                                          │
+Junction Tables (Many-to-Many):                                          │
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐                    │
+│ USER_GROUP  │    │SERVICE_GROUP│    │SYSTEM_GROUP │                    │
+├─────────────┤    ├─────────────┤    ├─────────────┤                    │
+│+ user_grp_id│    │+ srv_grp_id │    │+ sys_grp_id │                    │
+│# user_id    │    │# service_id │    │# system_id  │                    │
+│# group_id   │    │# group_id   │    │# group_id   │                    │
+│  assigned_dt│    │  permission │    │  access_lvl │                    │
+│  assigned_by│    │  assigned_dt│    │  assigned_dt│                    │
+│  is_active  │    │  is_active  │    │  is_active  │                    │
+└─────────────┘    └─────────────┘    └─────────────┘                    │
+                                                                          │
+Menu Hierarchy:                                                          │
+┌─────────────┐                                                          │
+│  COM_MENU   │                                                          │
+├─────────────┤                                                          │
+│+ menu_id    │                                                          │
+│  menu_name  │                                                          │
+│  menu_label │                                                          │
+│  menu_url   │                                                          │
+│  menu_icon  │                                                          │
+│# parent_id  │ ←── Self-referencing (hierarchy)                        │
+│# system_id  │ ←───────────────────────────────────────────────────────┘
+│# group_id   │ ←── Links to GROUP for access control
+│  sort_order │
+│  is_active  │
+│  ...        │
+└─────────────┘
+
+RELATIONSHIP LEGEND:
+═══════════════════
+
++ Primary Key
+# Foreign Key
+→ One-to-Many (1:N)
+↔ Many-to-Many (M:N) through junction table
+
+KEY RELATIONSHIPS:
+==================
+
+1. SS_USER ↔ GROUP (M:N)
+   - Through USER_GROUP junction table
+   - Users can belong to multiple groups
+   - Groups can contain multiple users
+
+2. SERVICE ↔ GROUP (M:N)
+   - Through SERVICE_GROUP junction table  
+   - Services can be assigned to multiple groups
+   - Groups can access multiple services
+   - Includes permission levels (read/write/admin)
+
+3. COM_SYSTEM ↔ GROUP (M:N)
+   - Through SYSTEM_GROUP junction table
+   - Systems can be assigned to multiple groups
+   - Groups can access multiple systems
+   - Includes access levels (user/admin/super_admin)
+
+4. COM_SYSTEM → SERVICE (1:N)
+   - One system can have many services
+   - Each service belongs to one system
+
+5. COM_SYSTEM → COM_MENU (1:N)
+   - One system can have many menu items
+   - Each menu item can belong to one system (optional)
+
+6. GROUP → COM_MENU (1:N)
+   - One group controls access to many menu items
+   - Each menu item can be restricted to one group (optional)
+
+7. COM_MENU → COM_MENU (1:N) [Self-Referencing]
+   - Parent-child hierarchy for menu structure
+   - Unlimited menu depth support
+
+8. SS_USER → GROUP (1:N) [created_by]
+   - Tracks which user created each group
+   - Audit trail functionality
+
+9. SS_USER → USER_GROUP (1:N) [assigned_by]  
+   - Tracks which user made group assignments
+   - Audit trail functionality
+
+BUSINESS RULES:
+===============
+
+• Users must belong to at least one group to access any services/systems
+• Menu items without group restrictions are visible to all users
+• Menu items without system associations are global menu items
+• Services must be associated with a system
+• Junction tables enable flexible permission matrix
+• Soft delete (is_active=false) preserves data integrity
+• Hierarchical menu structure supports unlimited nesting
+• Permission levels provide fine-grained access control
+```
